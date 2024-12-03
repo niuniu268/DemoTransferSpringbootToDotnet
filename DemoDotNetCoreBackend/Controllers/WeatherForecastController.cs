@@ -20,6 +20,7 @@ public class WeatherForecastController : ControllerBase
     }
 
     [HttpGet(Name = "GetWeatherForecast")]
+    [TypeFilter(typeof(LogActionAttribute))]
     public IEnumerable<WeatherForecast> Get()
     {
         _logger.LogInformation("Hello, this is the index!");

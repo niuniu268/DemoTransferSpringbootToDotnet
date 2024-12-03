@@ -1,3 +1,4 @@
+using DemoDotNetCoreBackend.Controllers;
 using NLog;
 using NLog.Web;
 
@@ -8,6 +9,7 @@ var logger = LogManager.Setup()
 logger.Debug("init main");
 
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddSingleton<LogActionAttribute>();
 
 // Add services to the container.
 builder.Services.AddControllers();
