@@ -1,0 +1,14 @@
+2024-12-03 10:50:26.0405|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5267 |url: |action: 
+2024-12-03 10:50:26.0457|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-12-03 10:50:26.0457|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-12-03 10:50:26.0457|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/DemoDotNetCoreBackend/ |url: |action: 
+2024-12-03 10:50:26.4612|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/swagger/index.html|action: 
+2024-12-03 10:51:39.7284|0|INFO|Microsoft.Hosting.Lifetime|Application is shutting down... |url: |action: 
+2024-12-03 10:54:48.9829|0|DEBUG|DemoDotNetCoreBackend.Program|init main |url: |action: 
+2024-12-03 10:54:49.1135|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5267 |url: |action: 
+2024-12-03 10:54:49.1181|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-12-03 10:54:49.1181|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-12-03 10:54:49.1181|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/DemoDotNetCoreBackend/ |url: |action: 
+2024-12-03 10:54:55.1130|1|DEBUG|DemoDotNetCoreBackend.Controllers.WeatherForecastController|NLog injected into HomeController |url: http://localhost/WeatherForecast|action: Get
+2024-12-03 10:54:55.1190|0|INFO|DemoDotNetCoreBackend.Controllers.WeatherForecastController|Hello, this is the index! |url: http://localhost/WeatherForecast|action: Get
+2024-12-03 10:55:30.5240|0|INFO|Microsoft.Hosting.Lifetime|Application is shutting down... |url: |action: 

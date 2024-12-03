@@ -1,0 +1,16 @@
+2024-12-03 10:50:25.9237 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-12-03 10:50:25.9310 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-12-03 10:50:25.9310 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-12-03 10:50:25.9355 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-03 10:50:25.9652 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/DemoDotNetCoreBackend/nlog.config
+2024-12-03 10:50:25.9729 Info Configuration initialized.
+2024-12-03 10:51:39.7469 Info Shutdown() called. Logger closing...
+2024-12-03 10:51:39.7474 Info Closing old configuration.
+2024-12-03 10:51:39.7514 Info Logger has been closed down.
+2024-12-03 10:54:48.9236 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-12-03 10:54:48.9306 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-12-03 10:54:48.9306 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-12-03 10:54:48.9354 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-03 10:54:48.9737 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/DemoDotNetCoreBackend/bin/Debug/net6.0/nlog.config
+2024-12-03 10:54:48.9786 Info Configuration initialized.
+2024-12-03 10:54:49.0618 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/DemoDotNetCoreBackend/bin/Debug/net6.0/nlog.config

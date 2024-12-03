@@ -1,0 +1,63 @@
+2024-12-03 10:59:30.8394|DEBUG|DemoDotNetCoreBackend.Program|init main
+2024-12-03 10:59:30.9486|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory|Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider
+2024-12-03 10:59:30.9600|DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting starting
+2024-12-03 10:59:30.9792|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5267
+2024-12-03 10:59:30.9792|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly DemoDotNetCoreBackend
+2024-12-03 10:59:30.9792|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2024-12-03 10:59:30.9792|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2024-12-03 10:59:30.9792|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/DemoDotNetCoreBackend/
+2024-12-03 10:59:30.9792|DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting started
+2024-12-03 10:59:31.4347|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN8JG4NDNJSJ" received FIN.
+2024-12-03 10:59:31.4420|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN8JG4NDNJSJ" accepted.
+2024-12-03 10:59:31.4427|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN8JG4NDNJSJ" started.
+2024-12-03 10:59:31.4522|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN8JG4NDNJSJ" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-12-03 10:59:31.4616|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN8JG4NDNJSJ" disconnecting.
+2024-12-03 10:59:31.4638|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN8JG4NDNJSJ" stopped.
+2024-12-03 10:59:31.4808|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN8JG4NDNJSK" accepted.
+2024-12-03 10:59:31.4808|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN8JG4NDNJSK" started.
+2024-12-03 10:59:31.5033|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5267/swagger/index.html - -
+2024-12-03 10:59:31.5044|DEBUG|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|Wildcard detected, all requests with hosts will be allowed.
+2024-12-03 10:59:31.5146|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/swagger/index.html'
+2024-12-03 10:59:31.5146|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints
+2024-12-03 10:59:31.5569|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN8JG4NDNJSK" completed keep alive response.
+2024-12-03 10:59:31.5574|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5267/swagger/index.html - - - 200 - text/html;charset=utf-8 54.7817ms
+2024-12-03 10:59:31.6293|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5267/swagger/v1/swagger.json - -
+2024-12-03 10:59:31.6293|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/swagger/v1/swagger.json'
+2024-12-03 10:59:31.6293|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints
+2024-12-03 10:59:31.6709|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN8JG4NDNJSK" completed keep alive response.
+2024-12-03 10:59:31.6709|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5267/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 41.7289ms
+2024-12-03 10:59:38.0307|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5267/WeatherForecast - -
+2024-12-03 10:59:38.0328|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/WeatherForecast'
+2024-12-03 10:59:38.0337|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint 'DemoDotNetCoreBackend.Controllers.WeatherForecastController.Get (DemoDotNetCoreBackend)' with route pattern 'WeatherForecast' is valid for the request path '/WeatherForecast'
+2024-12-03 10:59:38.0337|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'DemoDotNetCoreBackend.Controllers.WeatherForecastController.Get (DemoDotNetCoreBackend)'
+2024-12-03 10:59:38.0346|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Static files was skipped as the request already matched an endpoint.
+2024-12-03 10:59:38.0356|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'DemoDotNetCoreBackend.Controllers.WeatherForecastController.Get (DemoDotNetCoreBackend)'
+2024-12-03 10:59:38.0395|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[DemoDotNetCoreBackend.WeatherForecast] Get() on controller DemoDotNetCoreBackend.Controllers.WeatherForecastController (DemoDotNetCoreBackend).
+2024-12-03 10:59:38.0395|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of authorization filters (in the following order): None
+2024-12-03 10:59:38.0395|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of resource filters (in the following order): None
+2024-12-03 10:59:38.0395|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)
+2024-12-03 10:59:38.0395|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of exception filters (in the following order): None
+2024-12-03 10:59:38.0395|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)
+2024-12-03 10:59:38.0401|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing controller factory for controller DemoDotNetCoreBackend.Controllers.WeatherForecastController (DemoDotNetCoreBackend)
+2024-12-03 10:59:38.0401|DEBUG|DemoDotNetCoreBackend.Controllers.WeatherForecastController|NLog injected into HomeController
+2024-12-03 10:59:38.0401|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed controller factory for controller DemoDotNetCoreBackend.Controllers.WeatherForecastController (DemoDotNetCoreBackend)
+2024-12-03 10:59:38.0440|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing action method DemoDotNetCoreBackend.Controllers.WeatherForecastController.Get (DemoDotNetCoreBackend) - Validation state: Valid
+2024-12-03 10:59:38.0442|INFO|DemoDotNetCoreBackend.Controllers.WeatherForecastController|Hello, this is the index!
+2024-12-03 10:59:38.0472|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action method DemoDotNetCoreBackend.Controllers.WeatherForecastController.Get (DemoDotNetCoreBackend), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.9553ms.
+2024-12-03 10:59:38.0487|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|List of registered output formatters, in the following order: Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter
+2024-12-03 10:59:38.0502|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Attempting to select an output formatter based on Accept header 'text/plain'.
+2024-12-03 10:59:38.0502|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Could not find an output formatter based on content negotiation. Accepted types were (text/plain)
+2024-12-03 10:59:38.0502|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2024-12-03 10:59:38.0502|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Attempting to select the first formatter in the output formatters list which can write the result.
+2024-12-03 10:59:38.0502|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response.
+2024-12-03 10:59:38.0502|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'DemoDotNetCoreBackend.WeatherForecast[]'.
+2024-12-03 10:59:38.0555|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action DemoDotNetCoreBackend.Controllers.WeatherForecastController.Get (DemoDotNetCoreBackend) in 14.0191ms
+2024-12-03 10:59:38.0555|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'DemoDotNetCoreBackend.Controllers.WeatherForecastController.Get (DemoDotNetCoreBackend)'
+2024-12-03 10:59:38.0555|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN8JG4NDNJSK" completed keep alive response.
+2024-12-03 10:59:38.0555|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5267/WeatherForecast - - - 200 - application/json;+charset=utf-8 24.9719ms
+2024-12-03 11:00:01.0268|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2024-12-03 11:00:01.0288|DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting stopping
+2024-12-03 11:00:01.0364|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN8JG4NDNJSK" disconnecting.
+2024-12-03 11:00:01.0372|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN8JG4NDNJSK" stopped.
+2024-12-03 11:00:01.0372|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN8JG4NDNJSK" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-12-03 11:00:01.0401|DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting stopped

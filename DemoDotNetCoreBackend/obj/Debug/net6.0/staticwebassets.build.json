@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lRfyAwddSvtZi4xPx6gKwYY3Jq1ejSYCTmfAn4EBeZg=",
+  "Source": "DemoDotNetCoreBackend",
+  "BasePath": "_content/DemoDotNetCoreBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
