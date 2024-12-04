@@ -26,6 +26,70 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Core/Core.csproj": {
+                "projectPath": "/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Core/Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[33.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/hongweihan/.dotnet/sdk/6.0.428/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Core/Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Core/Core.csproj",
+        "projectName": "Core",
+        "projectPath": "/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Core/Core.csproj",
+        "packagesPath": "/Users/hongweihan/.nuget/packages/",
+        "outputPath": "/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Core/obj/",
+        "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "/Users/hongweihan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },

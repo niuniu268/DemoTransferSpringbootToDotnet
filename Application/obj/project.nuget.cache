@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Blh2cDwmaWg=",
+  "dgSpecHash": "A+Kk+EgkJKw=",
   "success": true,
   "projectFilePath": "/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Application/Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/hongweihan/.nuget/packages/csvhelper/33.0.1/csvhelper.33.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

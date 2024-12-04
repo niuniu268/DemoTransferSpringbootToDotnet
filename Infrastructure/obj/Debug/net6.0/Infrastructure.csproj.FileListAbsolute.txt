@@ -1,0 +1,15 @@
+/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Infrastructure/bin/Debug/net6.0/Infrastructure.deps.json
+/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Infrastructure/bin/Debug/net6.0/Infrastructure.dll
+/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Infrastructure/bin/Debug/net6.0/Infrastructure.pdb
+/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Infrastructure/bin/Debug/net6.0/Core.dll
+/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Infrastructure/bin/Debug/net6.0/Core.pdb
+/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Infrastructure/obj/Debug/net6.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Infrastructure/obj/Debug/net6.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Infrastructure/obj/Debug/net6.0/Infrastructure.AssemblyInfo.cs
+/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.CopyComplete
+/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Infrastructure/obj/Debug/net6.0/Infrastructure.dll
+/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Infrastructure/obj/Debug/net6.0/refint/Infrastructure.dll
+/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Infrastructure/obj/Debug/net6.0/Infrastructure.pdb
+/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Infrastructure/obj/Debug/net6.0/ref/Infrastructure.dll

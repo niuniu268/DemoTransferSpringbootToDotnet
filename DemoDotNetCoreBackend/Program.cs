@@ -1,4 +1,9 @@
+using Application.Interfaces;
+using Application.Services;
+using Core.Interfaces;
 using DemoDotNetCoreBackend.Controllers;
+using Infrastructure;
+using Microsoft.EntityFrameworkCore;
 using NLog;
 using NLog.Web;
 
@@ -10,6 +15,18 @@ logger.Debug("init main");
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddSingleton<LogActionAttribute>();
+
+builder.Services.AddDbContext<HogwartsContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+builder.Services.AddScoped<IShiftRepository, ShiftRepository>();
+builder.Services.AddScoped<IStudentsRepository, StudentsRepository>();
+builder.Services.AddScoped<ITasksRepository, TasksRepository>();
+
+builder.Services.AddScoped<ICalculatedHoursByHouse, CalculatedHoursByHouse>();
+builder.Services.AddScoped<ICalculatedSalaryBill, CalculatedSalaryBill>();
+builder.Services.AddScoped<IImportShiftService, ImportShiftService>();
+builder.Services.AddScoped<IImportStudentsService, ImportStudentsService>();
 
 // Add services to the container.
 builder.Services.AddControllers();

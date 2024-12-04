@@ -1,0 +1,12 @@
+/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Core/bin/Debug/net6.0/Core.deps.json
+/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Core/bin/Debug/net6.0/Core.dll
+/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Core/bin/Debug/net6.0/Core.pdb
+/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Core/obj/Debug/net6.0/Core.csproj.AssemblyReference.cache
+/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Core/obj/Debug/net6.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Core/obj/Debug/net6.0/Core.AssemblyInfoInputs.cache
+/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Core/obj/Debug/net6.0/Core.AssemblyInfo.cs
+/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Core/obj/Debug/net6.0/Core.csproj.CoreCompileInputs.cache
+/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Core/obj/Debug/net6.0/Core.dll
+/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Core/obj/Debug/net6.0/refint/Core.dll
+/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Core/obj/Debug/net6.0/Core.pdb
+/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Core/obj/Debug/net6.0/ref/Core.dll
