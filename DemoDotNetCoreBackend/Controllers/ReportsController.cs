@@ -26,13 +26,10 @@ public class ReportsController : ControllerBase
     }
     
     [HttpPost("upload")]
-    public IActionResult UploadStudents([FromForm] string studentsCsv, [FromForm] string shiftsCsv)
+    public async Task<IActionResult> UploadStudents([FromForm] string studentsCsv, [FromForm] string shiftsCsv)
     {
-        Console.WriteLine(studentsCsv);
-        Console.WriteLine(shiftsCsv);
-        
-        _importStudentsService.ImportStudentsFromCSV(studentsCsv);
-        _importShiftService.ImportShiftFromCSV(shiftsCsv);
+         await _importStudentsService.ImportStudentsFromCSV(studentsCsv);
+         await _importShiftService.ImportShiftFromCSV(shiftsCsv);
     
         return Ok();
     }

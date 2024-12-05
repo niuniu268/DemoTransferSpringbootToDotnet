@@ -58,12 +58,37 @@ public class ShiftRepository: IShiftRepository
 
     public async Task SaveShiftAsync(Shift shift)
     {
+        if (shift.AppointedById != null)
+        {
+            var student = await _context.Students.FindAsync(shift.AppointedById);
+            if (student == null)
+            {
+                
+                return;
+
+            }
+        }
+
         await _context.Shift.AddAsync(shift);
     }
     
     
     public async Task SaveChangeAsync()
     {
-        await _context.SaveChangesAsync();
+        try
+        {
+            await _context.SaveChangesAsync();
+        }
+        catch (DbUpdateException ex)
+        {
+            Console.WriteLine($"Database update error: {ex.Message}");
+            
+            if (ex.InnerException != null)
+            {
+                Console.WriteLine($"Inner exception: {ex.InnerException.Message}");
+            }
+            
+            throw;
+        }
     }
 }

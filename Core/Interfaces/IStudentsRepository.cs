@@ -8,6 +8,6 @@ public interface IStudentsRepository
     long CountStudents();
     Task<List<HouseHoursDto>> AggregateHoursByHouseForTaskAsync(string taskName);
     Task SaveStudentsAsync(Students students);
-    Students FindById(string id);
+    Task<Students> FindByIdAsync(string id);
     Task SaveChangeAsync();
 }

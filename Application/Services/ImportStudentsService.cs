@@ -5,7 +5,7 @@ using Core.Entity;
 using Core.Interfaces;
 using CsvHelper;
 using CsvHelper.Configuration;
-using System.Linq;
+
 
 namespace Application.Services
 {
@@ -21,13 +21,13 @@ namespace Application.Services
             _tasksRepository = tasksRepository;
         }
 
-        public void ImportStudentsFromCSV(string file)
+        public async Task ImportStudentsFromCSV(string file)
         {
             var config = new CsvConfiguration(CultureInfo.InvariantCulture)
             {
                 Delimiter = ";",
-                HeaderValidated = null,  // Ignore header validation
-                MissingFieldFound = null // Ignore missing fields
+                HeaderValidated = null,  
+                MissingFieldFound = null 
             };
 
             try
@@ -35,7 +35,6 @@ namespace Application.Services
                 using var reader = new StreamReader(file);
                 using var csv = new CsvReader(reader, config);
                 
-                // Register ClassMap to handle custom mapping of CSV headers
                 csv.Context.RegisterClassMap<StudentsMap>();
 
                 var records = csv.GetRecords<StudentsDto>().ToList();
@@ -53,15 +52,13 @@ namespace Application.Services
                                                  .Select(t => t.Trim())
                                                  .Where(t => !string.IsNullOrEmpty(t))
                                                  .ToList();
-                        int weight = CalculateWeight(tasks.Count);
+                        var weight = CalculateWeight(tasks.Count);
 
                         foreach (var newTask in tasks.Select(task => CreateTaskEntity(task, student, weight)))
                         {
-                            _tasksRepository.SaveTasksAsync(newTask);
+                            await _tasksRepository.SaveTasksAsync(newTask);
                         }
-
-                        _tasksRepository.SaveChangeAsync();
-                        _studentsRepository.SaveChangeAsync();
+                        
                     }
                     catch (Exception ex)
                     {
@@ -73,6 +70,9 @@ namespace Application.Services
             {
                 throw new ApplicationException("Failed to import students from CSV", ex);
             }
+            
+            await _tasksRepository.SaveChangeAsync();
+            await _studentsRepository.SaveChangeAsync();
         }
 
         private static Students CreateStudentEntity(StudentsDto studentsDto)
@@ -109,8 +109,7 @@ namespace Application.Services
             };
         }
     }
-
-    // ClassMap for StudentsDto to map CSV headers to DTO properties
+    
     public class StudentsMap : ClassMap<StudentsDto>
     {
         public StudentsMap()

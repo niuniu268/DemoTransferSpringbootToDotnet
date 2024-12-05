@@ -2,5 +2,5 @@ namespace Application.Interfaces;
 
 public interface IImportStudentsService
 {
-    public void ImportStudentsFromCSV(string file);
+    public Task ImportStudentsFromCSV(string file);
 }

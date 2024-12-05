@@ -63,7 +63,7 @@ public class HogwartsContext: DbContext
 
             
             entity.Property(e => e.AppointedById)
-                .HasColumnName("appointed_by")  // Ensuring the column name matches
+                .HasColumnName("appointed_by") 
                 .HasMaxLength(36)
                 .IsRequired(false);
 
@@ -71,6 +71,7 @@ public class HogwartsContext: DbContext
                 .WithMany(s => s.ShiftSet)
                 .HasForeignKey(e => e.AppointedById)
                 .HasConstraintName("fk_shift_students_id")
+                .IsRequired(false)
                 .OnDelete(DeleteBehavior.SetNull);
 
         });
@@ -80,10 +81,20 @@ public class HogwartsContext: DbContext
             entity.ToTable("tasks");
             entity.HasKey(e => e.Id);
 
-            entity.Property(e => e.Id).HasColumnName("id").HasMaxLength(36);
-            entity.Property(e => e.StudentsId).HasColumnName("students_id").HasMaxLength(36);
-            entity.Property(e => e.Task).HasColumnName("task").HasMaxLength(128);
-            entity.Property(e => e.Weight).HasColumnName("weight");
+            entity.Property(e => e.Id)
+                .HasColumnName("id")
+                .HasMaxLength(36);
+            
+            entity.Property(e => e.StudentsId)
+                .HasColumnName("students_id")
+                .HasMaxLength(36);
+            
+            entity.Property(e => e.Task)
+                .HasColumnName("task")
+                .HasMaxLength(128);
+            
+            entity.Property(e => e.Weight)
+                .HasColumnName("weight");
 
             entity.HasOne(e => e.StudentsBy)
                 .WithMany(s => s.TasksSet)

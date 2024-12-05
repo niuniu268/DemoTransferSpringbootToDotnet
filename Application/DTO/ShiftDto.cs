@@ -1,6 +1,6 @@
 namespace Application.DTO;
 
-public abstract class ShiftDto
+public class ShiftDto
 {
     public string Id { get; set; }
     public string StartTime { get; set; }

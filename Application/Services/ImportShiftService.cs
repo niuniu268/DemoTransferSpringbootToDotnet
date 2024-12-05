@@ -8,7 +8,7 @@ using CsvHelper.Configuration;
 
 namespace Application.Services
 {
-    public class ImportShiftService: IImportShiftService
+    public class ImportShiftService : IImportShiftService
     {
         private readonly IShiftRepository _shiftRepository;
         private readonly IStudentsRepository _studentsRepository;
@@ -18,79 +18,97 @@ namespace Application.Services
             _shiftRepository = shiftRepository;
             _studentsRepository = studentsRepository;
         }
-        
-        public void ImportShiftFromCSV(string file)
+
+        public async Task ImportShiftFromCSV(string file)
         {
             var config = new CsvConfiguration(CultureInfo.InvariantCulture)
             {
                 Delimiter = ";",
-                HeaderValidated = null,  // Ignore header validation
-                MissingFieldFound = null // Ignore missing fields
+                HeaderValidated = null,
+                MissingFieldFound = null,
             };
 
             try
             {
                 using var reader = new StreamReader(file);
                 using var csv = new CsvReader(reader, config);
-                
-                // Register ClassMap to ensure correct header-to-property mapping
+
                 csv.Context.RegisterClassMap<ShiftMap>();
 
-                var shiftCount = _shiftRepository.CountShifts();
-                for (var i = 0; i <= shiftCount; i++)
-                {
-                    csv.Read(); // Skip rows if necessary (check if this loop is needed)
-                }
-                
-                // Read records
                 var records = csv.GetRecords<ShiftDto>().ToList();
-                
-                // Process each shift record
-                foreach (var shift in records.Select(GetShift))
-                {
-                    _shiftRepository.SaveShiftAsync(shift);
-                }
 
-                _shiftRepository.SaveChangeAsync();
+                foreach (var record in records.Where(r => !string.IsNullOrEmpty(r.Id)))
+                {
+                    try
+                    {
+                        var shiftelement = await GetShift(record);
+                        if (shiftelement == null)
+                        {
+                            continue; 
+                        }
+
+                        await _shiftRepository.SaveShiftAsync(shiftelement);
+                    }
+                    catch (Exception readEx)
+                    {
+                        var rawRecord = csv.Context.Parser?.RawRecord;
+                        Console.WriteLine($"Error parsing record: {readEx.Message}");
+                        Console.WriteLine($"Raw Record: {rawRecord}");
+                        Console.WriteLine($"Stack Trace: {readEx.StackTrace}");
+                    }
+                }
             }
             catch (Exception ex)
             {
-                Console.WriteLine($"Error: {ex.Message}");
+                Console.WriteLine($"Import Error: {ex.Message}");
+                Console.WriteLine($"Stack Trace: {ex.StackTrace}");
+                throw;
             }
+
+            await _shiftRepository.SaveChangeAsync();
         }
 
-        private Shift GetShift(ShiftDto record)
+        private async Task<Shift> GetShift(ShiftDto record)
         {
-            var shift = new Shift
+            Shift shift = new Shift
             {
                 Id = record.Id,
-                StartTime = DateTime.Parse(record.StartTime),
-                EndTime = DateTime.Parse(record.EndTime),
-                UnpaidBreak = int.Parse(record.UnpaidBreak),
-                BillableRate = int.Parse(record.BillableRate),
+                StartTime = DateTime.ParseExact(record.StartTime, "yyyy-MM-ddTHH:mm:ssZ", CultureInfo.InvariantCulture),
+                EndTime = DateTime.ParseExact(record.EndTime, "yyyy-MM-ddTHH:mm:ssZ", CultureInfo.InvariantCulture),
+                UnpaidBreak = int.TryParse(record.UnpaidBreak, out var unpaidBreak) ? unpaidBreak : 0,
+                BillableRate = int.TryParse(record.BillableRate, out var billableRate) ? billableRate : 0,
+                AppointedById = record.AppointedById,
             };
 
             if (!string.IsNullOrEmpty(record.AppointedById))
             {
-                var appointedBy = _studentsRepository.FindById(record.AppointedById);
-                shift.AppointedBy = appointedBy;
+                var appointedBy = await _studentsRepository.FindByIdAsync(record.AppointedById);
+                if (appointedBy == null)
+                {
+                    Console.WriteLine($"Warning: Appointed student ID {record.AppointedById} does not exist. Setting 'AppointedBy' to NULL.");
+                    return null;
+                }
+                else
+                {
+                    shift.AppointedBy = appointedBy;
+                }
             }
+
 
             return shift;
         }
-    }
 
-    // Create ClassMap for correct mapping of CSV headers to DTO properties
-    public class ShiftMap : ClassMap<ShiftDto>
-    {
-        public ShiftMap()
+        public class ShiftMap : ClassMap<ShiftDto>
         {
-            Map(m => m.Id).Name("id");
-            Map(m => m.StartTime).Name("start_time");
-            Map(m => m.EndTime).Name("end_time");
-            Map(m => m.UnpaidBreak).Name("unpaid_break");
-            Map(m => m.BillableRate).Name("billable_rate");
-            Map(m => m.AppointedById).Name("appointed_by");
+            public ShiftMap()
+            {
+                Map(m => m.Id).Name("id");
+                Map(m => m.StartTime).Name("start_time");
+                Map(m => m.EndTime).Name("end_time");
+                Map(m => m.UnpaidBreak).Name("unpaid_break");
+                Map(m => m.BillableRate).Name("billable_rate");
+                Map(m => m.AppointedById).Name("appointed_by");
+            }
         }
     }
 }

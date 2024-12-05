@@ -44,9 +44,9 @@ public class StudentsRepository:IStudentsRepository
         
     }
 
-    public Students FindById(string id)
+    public async Task<Students> FindByIdAsync(string id)
     {
-        return _context.Students.Find(id);
+        return await _context.Students.FindAsync(id);
     }
 
     public async Task SaveChangeAsync()
