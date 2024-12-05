@@ -1,0 +1,1001 @@
+id;salary_rate;after_17_extra_salary_rate;house;tasks
+dc01447e-402e-410c-8bfa-edb79fa7d657;140;;Gryffindor;Practice magic
+cdc17ef3-ad52-4e08-90d8-ea49eded8fde;115;;Slytherin;Practice magic
+8d3f642d-9171-49c0-ad57-1d5e6da14c00;130;;Slytherin;"Polishing pots;Practice magic"
+a77ba6fd-3246-4607-9b6e-40b8656a40f5;100;10;Ravenclaw;"Quidditch;Practice magic"
+acbc6bba-106b-4251-832c-486420642047;105;;Hufflepuff;"Practice magic;Quidditch"
+c0e5e07f-7df6-44c0-a561-3b46a5922095;130;10;Ravenclaw;"Practice magic;Polishing pots"
+51980687-1bd5-4d1f-99b1-d366fa94b4a9;150;20;Gryffindor;"Polishing pots;Practice magic"
+572e1855-976b-4dc8-bea0-335af00590f3;105;10;Gryffindor;"Polishing pots;Practice magic"
+d8f18b24-d020-4d3b-902e-4216a4b15634;150;20;Slytherin;"Practice magic;Polishing pots"
+5f5b4996-e367-4891-a15e-01d23828b0a2;110;10;Slytherin;"Practice magic;Quidditch;Polishing pots"
+bafe1eb7-a62e-43f3-b47d-2a3163ddc95c;100;10;Gryffindor;Polishing pots
+0440e1e8-7d60-4cae-bdbd-3eaff8d97e69;120;20;Ravenclaw;"Practice magic;Polishing pots"
+c6e868e0-3524-4c2f-aabc-a4dc8b6978a0;120;10;Ravenclaw;Polishing pots
+6ad6ab63-c7df-411b-8441-3ebbe719172d;145;20;Gryffindor;"Quidditch;Practice magic;Polishing pots"
+ad0e22ab-34d6-4a0a-8d1a-c5b877413ae1;125;;Gryffindor;"Polishing pots;Quidditch;Practice magic"
+cfe92a9c-fee2-43d4-8d4d-b4977adc1402;145;;Ravenclaw;Quidditch
+34900aa5-fdce-414a-88d8-f250715dabe2;130;20;Gryffindor;"Practice magic;Quidditch"
+0e287697-46f1-40ab-8331-f0508960f1de;140;;Hufflepuff;Polishing pots
+32887efc-a67f-4c33-abe1-253cd9d5f8e4;120;10;Slytherin;"Quidditch;Practice magic"
+2a6ad034-a9f9-4c6f-acb0-8ca3655cb695;120;20;Slytherin;Practice magic
+f2b08da6-cef6-47cc-9ce1-875662562510;140;20;Ravenclaw;Polishing pots
+5d90ed3b-2884-47f4-8f44-a2d838ca9891;140;20;Gryffindor;Quidditch
+aef4da30-7f80-443d-9a7c-caa4559ba1f4;120;20;Gryffindor;"Polishing pots;Quidditch"
+7281e27f-9075-4ecf-9661-6deea0c470bd;120;;Slytherin;"Quidditch;Polishing pots;Practice magic"
+74a4f240-2aeb-4898-b2bc-e0b5b33bd0bd;105;;Ravenclaw;"Polishing pots;Practice magic"
+8d4bd09e-bfdc-44f6-a708-9e41834405b6;145;;Ravenclaw;"Polishing pots;Quidditch;Practice magic"
+38f5e6cf-07bb-4e7e-a58b-cf709cd949a8;140;20;Ravenclaw;"Quidditch;Practice magic"
+68e4ce5a-768a-4883-b31b-6139158e39ee;100;10;Ravenclaw;Practice magic
+b3794828-76e5-43d0-8b46-f6f20174c1fc;115;;Slytherin;Polishing pots
+0fc1c8c4-f32d-44b0-9bab-001f53020a15;110;;Slytherin;Quidditch
+938e2985-9213-4a3f-94d2-99c481a38219;125;;Gryffindor;Practice magic
+659649f8-a7e1-4a03-b2fa-7bdc1f905318;145;;Ravenclaw;"Practice magic;Polishing pots;Quidditch"
+76a9eb48-c95c-4297-ad9f-02b7bf935965;145;;Hufflepuff;Quidditch
+e673e2c0-c6b7-456b-acc1-558334432ca6;125;10;Ravenclaw;"Polishing pots;Quidditch;Practice magic"
+422642ef-be5f-4a5d-917d-74f14c955146;115;;Hufflepuff;Practice magic
+3048aa41-2d2c-415e-b76d-8b5da7bfcada;115;10;Ravenclaw;"Practice magic;Quidditch"
+1bb96f50-7d5f-4991-8635-e919c095b9ba;145;10;Gryffindor;Quidditch
+dab8ec79-e867-47b6-acc4-e5912bac2b0f;140;;Gryffindor;"Practice magic;Quidditch"
+eb0c4891-bdfa-4d40-9ce7-d9152143128c;130;;Ravenclaw;Quidditch
+c9256de8-f1b2-4fb9-bbbe-88933e63043a;125;10;Slytherin;Quidditch
+05f572e5-c8f8-4e97-930a-b3782f7e3a18;140;;Gryffindor;"Quidditch;Practice magic"
+ddc8e6e5-02cf-4d77-9bcb-1ecf03787573;135;10;Slytherin;"Quidditch;Polishing pots;Practice magic"
+5a21a147-a094-45c2-af87-029d7dc012bf;140;10;Ravenclaw;"Polishing pots;Practice magic"
+e51060aa-f298-46c9-a0e6-7520292cf4d5;130;20;Hufflepuff;"Practice magic;Polishing pots;Quidditch"
+bbfded27-2082-45bd-b99b-0c1dbd1dd6b7;135;;Ravenclaw;Polishing pots
+4a12d434-9462-43d4-bfba-c12eef4aaa75;125;;Hufflepuff;Practice magic
+39399444-7433-44b9-a359-57f55626c199;145;;Slytherin;Polishing pots
+19973a13-21fb-4691-bca3-dda263f79ecb;130;10;Hufflepuff;Polishing pots
+3955e2e4-bf80-4bbc-8ccb-7c6905906ee7;110;10;Gryffindor;"Quidditch;Practice magic"
+bdf9eaef-d4f6-4b2b-b43c-afdd07588e8b;145;;Hufflepuff;"Polishing pots;Quidditch;Practice magic"
+2c80b6d2-a51d-48de-af27-7671c98e1b67;125;20;Slytherin;Quidditch
+df36604a-ad9b-4828-9f46-c74cd6c2f6e8;135;10;Hufflepuff;Polishing pots
+669ec941-99da-43bb-99d1-8bf7702443b1;105;20;Ravenclaw;"Polishing pots;Quidditch;Practice magic"
+60c09840-da5a-4171-bd94-161fb0420533;105;20;Gryffindor;"Quidditch;Polishing pots;Practice magic"
+382dbbda-2f3b-406a-b33f-c5108da7a1e1;125;;Hufflepuff;"Quidditch;Polishing pots;Practice magic"
+5bb2b7b1-35bb-4dce-b870-9bacf5ac7191;125;20;Hufflepuff;"Polishing pots;Quidditch"
+61b86129-3bde-421c-85f0-661e69d91124;100;10;Hufflepuff;"Practice magic;Polishing pots"
+0605e6e7-cb0f-409f-98ee-87413e764a27;110;20;Slytherin;"Practice magic;Polishing pots"
+76955d9a-9c56-4651-ba06-bbc206db9676;110;20;Hufflepuff;"Quidditch;Practice magic;Polishing pots"
+e32aff6c-66c2-42be-9669-87132eb8ba5b;135;10;Slytherin;"Quidditch;Polishing pots"
+c39baea0-6405-4a96-8b5f-00c38d86ef6f;125;10;Hufflepuff;"Quidditch;Polishing pots;Practice magic"
+88c76173-c08f-409f-8602-777614a3f1e7;130;;Slytherin;"Quidditch;Polishing pots;Practice magic"
+a8721a0a-a67a-46cc-bc78-e083fb7fe79a;125;10;Slytherin;"Polishing pots;Practice magic;Quidditch"
+4b1d3b90-f119-45c2-9c2c-8ee18b7edf16;135;20;Gryffindor;"Quidditch;Practice magic"
+3b3f88f1-5aeb-4b51-a6fd-c22da3c204bf;130;20;Gryffindor;"Practice magic;Quidditch;Polishing pots"
+fc7db512-cb8b-4366-9bb2-0350531b60a4;150;;Ravenclaw;Quidditch
+ac609127-d8d2-46e9-8a98-6923371c6df1;100;;Hufflepuff;"Polishing pots;Quidditch"
+f68900c4-954a-475a-b358-83cc891a5d32;115;20;Slytherin;Polishing pots
+ddb4b878-a141-4aba-9d58-775239006ffe;135;;Ravenclaw;"Quidditch;Polishing pots"
+bb59d9db-75a5-4a49-aad6-2137c2933b3e;140;10;Hufflepuff;"Quidditch;Polishing pots;Practice magic"
+16f04afe-71ae-45b8-9a81-976b3d965ba5;140;20;Slytherin;"Quidditch;Polishing pots"
+55622490-23e3-4675-97b0-b48a81ad6570;130;10;Hufflepuff;"Polishing pots;Practice magic;Quidditch"
+78dac239-56a8-4e74-a095-8576ee9ee4b2;115;;Gryffindor;"Polishing pots;Practice magic"
+46681f3b-15e6-41dc-9d1f-1b553dae8705;130;10;Gryffindor;"Quidditch;Polishing pots"
+19e48a17-2c4b-4bf9-8510-4466d8cd942c;125;;Ravenclaw;"Practice magic;Quidditch;Polishing pots"
+c1b238c6-a5ec-4493-94e9-3e79be5c8b0b;100;20;Gryffindor;"Practice magic;Quidditch"
+788df07a-a961-422f-b267-f5d5d8ab8385;120;10;Gryffindor;"Quidditch;Polishing pots;Practice magic"
+1e01f4ff-180b-495c-bc2e-602fdc911168;125;20;Ravenclaw;"Practice magic;Quidditch"
+6a9ec345-8653-4cc5-b761-0e5f5b73a5a4;100;;Gryffindor;"Polishing pots;Practice magic"
+ad1aeac6-705a-41ae-bb5a-246a9c82f570;140;20;Slytherin;Practice magic
+405e5d1d-35e7-4ffe-9a99-0c7edb0cf71a;130;20;Gryffindor;"Practice magic;Polishing pots"
+59f465b7-39f7-41dd-9086-c0e708055647;130;;Gryffindor;"Quidditch;Practice magic;Polishing pots"
+9919a239-6071-4832-9ef4-e6beeedf5d07;110;10;Gryffindor;"Polishing pots;Quidditch;Practice magic"
+114198d0-69c9-40ba-8e12-84988ba9155c;125;20;Hufflepuff;"Quidditch;Polishing pots;Practice magic"
+0f343046-9d4c-4bfe-80de-5f9a9dd9d80d;105;20;Ravenclaw;Practice magic
+00694618-12a7-4c8b-a06e-e0e74c3930be;145;;Ravenclaw;"Quidditch;Polishing pots;Practice magic"
+f18d4755-7472-4ec3-8a89-31f8be2d3b63;150;;Slytherin;"Practice magic;Quidditch"
+0594722f-3f88-4a1a-82e4-92e1f6a9738d;145;10;Gryffindor;"Polishing pots;Practice magic"
+3e2e6542-7e02-4b3d-8fa6-e2d1ac22e1c2;130;20;Gryffindor;"Quidditch;Practice magic"
+3579bae5-113f-4f52-9cd1-a9cb2af3c8b9;110;;Gryffindor;Practice magic
+6266bf0f-94ee-48ee-91b0-39d80775e54e;105;20;Gryffindor;"Practice magic;Quidditch;Polishing pots"
+8dd80c69-679a-4a70-bc7b-e4fc9ecdc813;145;10;Ravenclaw;Practice magic
+9cf88ac6-db83-4979-9ecf-4d7c80626be8;100;20;Gryffindor;"Quidditch;Practice magic;Polishing pots"
+9bddf7d4-244b-4992-b991-6f1f1da6d054;150;;Slytherin;"Polishing pots;Quidditch;Practice magic"
+e4e8758a-d069-4588-9333-697de84c8135;150;;Slytherin;"Polishing pots;Practice magic"
+ead0fb77-969c-4c6a-addb-efea3b4f0598;145;20;Ravenclaw;Practice magic
+c7f2eb15-611b-4e64-a5ec-e0beff923157;145;20;Slytherin;"Polishing pots;Quidditch;Practice magic"
+17112009-4fe4-47a8-a4f8-25149deda6ae;135;20;Slytherin;Quidditch
+dd0608f1-b16d-42a1-9bbd-706fb83091c0;145;20;Slytherin;Quidditch
+71c7aa3d-d621-4e94-b2b0-1dc824958570;120;10;Hufflepuff;"Polishing pots;Practice magic"
+921778a8-96ec-400e-af31-10aa1cc32b55;130;20;Gryffindor;"Practice magic;Quidditch"
+9ef86e83-8a18-4a85-847c-94fffc590c98;135;20;Slytherin;"Practice magic;Quidditch;Polishing pots"
+577cd34b-3d12-4da3-a982-5b960316470d;120;20;Ravenclaw;Practice magic
+f7bf64d3-11c4-479c-9b81-3bf5a73fe688;125;10;Gryffindor;"Polishing pots;Quidditch"
+a465281c-077d-4390-af73-9679ca9921df;135;20;Gryffindor;Polishing pots
+7b71ddb7-99fc-4bd2-9e59-3316519795e3;100;20;Hufflepuff;"Polishing pots;Quidditch"
+ec8852c6-be20-47cc-9226-a38ab3746a0a;110;20;Gryffindor;"Polishing pots;Practice magic;Quidditch"
+1186ddc4-f9c7-4db9-b224-deb04649318a;145;;Gryffindor;"Polishing pots;Practice magic;Quidditch"
+91ee8f20-1260-4a06-81e4-98cbdb3d0325;110;20;Gryffindor;"Practice magic;Polishing pots"
+11c58bdc-663a-4296-9019-bad65d718946;150;;Gryffindor;"Practice magic;Polishing pots"
+6bd79694-a81d-4ea3-b27c-785c93b09b08;100;;Hufflepuff;"Practice magic;Polishing pots"
+e8193159-1760-46a3-a7e5-e321056c5f1a;125;;Hufflepuff;"Quidditch;Polishing pots;Practice magic"
+c5546387-16a7-4416-8a37-2c5af849dc22;125;;Ravenclaw;"Polishing pots;Practice magic;Quidditch"
+74f8b46d-c688-478b-a79c-f548c50926c5;115;;Hufflepuff;Polishing pots
+450e9cb6-e260-4bed-8ee4-ddeb4bb82725;140;;Slytherin;"Quidditch;Polishing pots"
+9a147fc1-3855-40d4-92e4-80069bbe0074;120;20;Gryffindor;"Quidditch;Practice magic"
+68b821c9-c8af-4f99-8e00-6c011f919266;100;;Slytherin;Polishing pots
+dd03c807-5ac5-43ab-9ddd-557b78d85d49;110;10;Slytherin;"Quidditch;Practice magic;Polishing pots"
+dedb4f82-78bd-4764-85f3-3a98c6d472fa;125;;Ravenclaw;"Polishing pots;Quidditch;Practice magic"
+53260a4b-30b4-458c-bc01-53d4f1ed0cb1;110;10;Hufflepuff;Practice magic
+f752f9c8-b52f-4a86-9890-cb5134d583f5;130;;Gryffindor;"Polishing pots;Quidditch"
+10089d78-ab6c-4677-a784-b9ee861978a9;110;;Slytherin;"Practice magic;Quidditch"
+f292a1fe-9edb-4b6e-a822-9376ac15b28f;110;20;Gryffindor;Quidditch
+252c17b7-965c-4c0d-ae96-b353a70edcea;100;10;Hufflepuff;Practice magic
+e39749c5-c0e6-417d-b0e8-20a23393b51b;140;20;Ravenclaw;"Quidditch;Polishing pots;Practice magic"
+4e52fdbd-e5d2-4358-a86f-7d9ae1ace3a0;105;;Slytherin;"Practice magic;Polishing pots"
+748902e8-4d92-41dc-b045-8251c2e4cc57;135;;Ravenclaw;"Polishing pots;Practice magic"
+fe247f40-02a2-4c21-800c-8e8709961a30;125;;Hufflepuff;"Practice magic;Polishing pots;Quidditch"
+71ed2a7b-021c-406a-bc22-9e802d6191b2;100;;Slytherin;"Quidditch;Polishing pots"
+484df50c-c5b9-4e13-b621-db115ca2b300;105;20;Slytherin;"Polishing pots;Practice magic"
+7f60b909-bc06-4c64-98d8-36211036f30d;130;;Gryffindor;"Quidditch;Polishing pots"
+a80f0aeb-4c32-4156-be45-0b002a8712af;150;20;Slytherin;"Quidditch;Practice magic"
+91bcfd79-7ae8-4ca4-9ce6-0789f7dfc2a7;130;20;Hufflepuff;Practice magic
+0834d61b-5d23-4703-8043-a570c7f4e708;115;;Hufflepuff;"Quidditch;Polishing pots"
+b4ea6891-baee-49cd-bccb-b7fddab883ef;140;20;Ravenclaw;"Practice magic;Polishing pots"
+92a303fb-8a37-4dde-a1e2-4f9557b0cfc9;135;10;Slytherin;Quidditch
+617d47b9-fec2-4c0e-a9cc-5374b42e6e34;110;;Gryffindor;Practice magic
+41fa5f53-0f07-452d-a3a2-44d592f5c193;120;10;Gryffindor;"Polishing pots;Quidditch;Practice magic"
+a7f1e9c4-5975-4238-bd48-0ee5c587af5a;110;;Slytherin;"Quidditch;Practice magic"
+66966f51-8004-4590-957a-29f9031558b7;115;10;Hufflepuff;"Quidditch;Practice magic;Polishing pots"
+1b206a79-831b-4a50-9a30-856b765041a2;105;20;Slytherin;"Polishing pots;Practice magic"
+c0aca6fd-f6e7-41c8-aaf6-4ec27bd398cc;100;;Slytherin;Quidditch
+e4bd93ec-ff76-4d10-9f9f-5247c3bd19eb;130;10;Gryffindor;Quidditch
+e3faa40d-ce0e-412a-a6f5-4b2923e3152e;140;;Hufflepuff;Practice magic
+d2993eb9-41dc-44e2-8dea-ecce035a144d;145;;Hufflepuff;Practice magic
+bef6cb08-e767-4136-844f-7e6401826585;145;;Hufflepuff;"Quidditch;Practice magic;Polishing pots"
+815ad757-27e1-452a-8056-556e6b0b7c9d;105;;Hufflepuff;"Quidditch;Polishing pots;Practice magic"
+4744b2e4-fd8b-4ba8-9ca7-2650a0429408;105;20;Slytherin;"Quidditch;Polishing pots"
+54415c94-9617-4134-9722-7c8f2e32958c;110;20;Hufflepuff;"Practice magic;Polishing pots"
+cdde4af1-f19c-4563-8d69-e779e8b26b5f;100;20;Slytherin;Polishing pots
+3d354a1d-c48a-4164-b8b6-4845278b818e;105;20;Gryffindor;"Quidditch;Practice magic;Polishing pots"
+48ad89f0-f74e-4d16-bb94-d532f5876e0a;150;20;Hufflepuff;Practice magic
+9441b6f9-c066-4be6-9b23-dd82c9398366;110;20;Ravenclaw;Polishing pots
+35d05e7d-f22f-449c-a6e0-98cf7695e9dd;110;20;Ravenclaw;Quidditch
+8c0d8fd7-6c2b-4475-a4cf-c3e3d960e869;110;;Slytherin;Quidditch
+c704e224-ef5c-4895-aba0-0f65b12466a5;150;10;Ravenclaw;"Practice magic;Polishing pots"
+02212aa9-6ed0-47c6-9d94-1ed862dee212;135;20;Gryffindor;"Practice magic;Polishing pots;Quidditch"
+4388b983-de7a-4658-b72b-e73d5d45fc92;140;;Slytherin;"Practice magic;Quidditch;Polishing pots"
+908a8a23-e834-476d-b142-bc987928ed5c;105;20;Gryffindor;Quidditch
+ecd82125-9f07-4855-818b-208cbf8b58b8;145;10;Hufflepuff;"Practice magic;Polishing pots;Quidditch"
+6dc96fec-40ad-490e-a213-dfe115334f47;135;20;Gryffindor;"Polishing pots;Practice magic;Quidditch"
+cdd4a3db-754f-4376-b19b-6d45dc39ebd1;145;;Slytherin;"Quidditch;Practice magic"
+b7955b41-f22f-403a-8d9d-48fa6c16574e;115;10;Slytherin;Polishing pots
+8576bbe2-4507-46cf-9cf5-2ce84003357a;120;;Gryffindor;Quidditch
+e217adb3-d3d0-43d5-a176-bc7c99c1a840;140;10;Ravenclaw;"Quidditch;Practice magic"
+096e0d0d-d6ab-415b-b0db-dba9169b35ab;120;10;Ravenclaw;Quidditch
+4d20b9ac-b1de-4a55-b13c-e06a7caa0924;130;10;Hufflepuff;Practice magic
+76626b60-f640-48d0-93f3-a09b63d05107;120;20;Slytherin;Polishing pots
+cb4886b3-e5e7-4159-82be-085d264f3b57;125;10;Hufflepuff;Quidditch
+71e92ffb-dabb-4c67-83c3-980ccb76d891;115;20;Hufflepuff;"Quidditch;Polishing pots;Practice magic"
+eca96e09-86b7-476b-b378-35eb7d54b2ac;105;10;Ravenclaw;Practice magic
+aff56d23-3738-4379-b4b2-d764998a9114;100;;Hufflepuff;"Quidditch;Practice magic;Polishing pots"
+37d95dbf-8d90-44c9-81d2-b63cde82ae3f;110;20;Slytherin;"Practice magic;Polishing pots;Quidditch"
+93690cef-1bad-4e65-a2d2-79fb6da46d3b;135;;Hufflepuff;Quidditch
+62ab3111-d3fa-42c6-9806-5680dc95485f;140;10;Gryffindor;Polishing pots
+82a6dbd6-1214-4e85-b8db-3e00d551a75f;125;;Ravenclaw;"Practice magic;Quidditch"
+cacf075f-f613-4492-a354-cb7d8d1e47ec;100;10;Gryffindor;"Quidditch;Practice magic;Polishing pots"
+0d31bc68-5287-44a5-b4a4-77ce41c8fb1d;115;10;Gryffindor;"Practice magic;Polishing pots;Quidditch"
+efcfd495-d291-477f-b301-548ddc950abc;120;20;Gryffindor;"Practice magic;Quidditch;Polishing pots"
+a858ed72-beb2-4894-bce2-88927bcd1fca;140;20;Hufflepuff;"Polishing pots;Practice magic"
+277c4e59-c9ba-4ccc-9440-4040fa44f21f;150;20;Hufflepuff;Quidditch
+af2652bc-20cb-48e2-99a3-0863083e4f3d;120;10;Ravenclaw;"Polishing pots;Practice magic;Quidditch"
+cff9f677-818d-405d-8281-0dc03a419198;135;10;Gryffindor;"Practice magic;Quidditch"
+dd422fd9-35c7-4c13-826c-ef3cd6625017;115;;Gryffindor;"Practice magic;Quidditch"
+24f7de08-f4e1-471f-856a-f913c5061a02;100;20;Slytherin;Polishing pots
+e2d25ad8-dc68-4137-98c9-9de18bcc5121;140;20;Slytherin;"Quidditch;Polishing pots"
+4366a24b-e688-414d-b1f3-869a26f0d01b;120;10;Ravenclaw;"Quidditch;Polishing pots;Practice magic"
+32f2d9e0-fc77-49d9-b859-a2d9eef718c1;100;;Hufflepuff;"Quidditch;Polishing pots;Practice magic"
+ccc9bcbf-de28-4c7c-9330-6027b4199166;120;10;Hufflepuff;"Quidditch;Polishing pots"
+28c31759-aa15-4fdb-90ca-bcb6cb8ead6e;115;10;Gryffindor;Polishing pots
+aa1d6141-fcb8-46a8-948f-8dd7f3be1b41;145;;Hufflepuff;Polishing pots
+84e4e297-b56c-4b65-ab1f-19b28b40dc3e;145;;Ravenclaw;Practice magic
+d49c9250-d2f8-4e47-b059-88e2e458951d;140;20;Hufflepuff;Quidditch
+49265787-da5a-4545-8bb7-fc8c9e486963;135;10;Slytherin;"Quidditch;Polishing pots;Practice magic"
+e6ead846-a28a-44d6-88d9-51ac31a030ef;120;20;Hufflepuff;"Practice magic;Quidditch;Polishing pots"
+d1f6e332-1787-4bf0-821b-a9286b318b72;120;20;Slytherin;"Polishing pots;Quidditch"
+bd8b509a-4f28-4a44-a032-a16c02b420ec;125;;Hufflepuff;Polishing pots
+3b46fc0a-696f-420b-8c26-72e09accd5b9;125;20;Ravenclaw;"Polishing pots;Practice magic;Quidditch"
+c439da65-11e4-42d9-ab9f-89e07f9a30d9;105;10;Slytherin;Practice magic
+6decb8c9-1c96-46a2-8f0f-66da16aefa4d;105;;Slytherin;"Polishing pots;Quidditch;Practice magic"
+3a4184c7-e3d9-4ff8-933c-0c71bc5eb5a6;135;20;Slytherin;"Practice magic;Polishing pots;Quidditch"
+02cf409b-e6fc-41de-bdd6-d9755b9c5e8f;115;20;Slytherin;Practice magic
+36a0e5e4-9046-41ca-a89f-e932c2e2538b;145;20;Gryffindor;Polishing pots
+3b58f782-4b7f-4f19-9930-9b4ab9892c1e;135;20;Ravenclaw;"Quidditch;Polishing pots"
+fd220c22-4ade-4872-a9c0-fa0c64b8f540;120;10;Slytherin;"Practice magic;Quidditch"
+3895a76d-0b5f-466a-ac7b-20a0245ceec2;120;20;Ravenclaw;Polishing pots
+2654f755-eaeb-4bac-a796-7e662b542c94;135;10;Slytherin;"Polishing pots;Quidditch;Practice magic"
+a15f7a37-e94d-42d7-9573-8f4202d8f006;135;10;Slytherin;"Practice magic;Quidditch;Polishing pots"
+1f6a6f78-6324-48f6-9d2c-1ab61501b591;130;20;Gryffindor;Quidditch
+eb52d307-8140-4889-ae44-ec437950a5bd;115;20;Slytherin;Practice magic
+86be953a-2f90-4c25-ac8d-8a804649fe64;115;;Gryffindor;"Polishing pots;Practice magic"
+1c4f1298-854d-4e77-b14b-dac9f6e5e969;100;20;Slytherin;"Practice magic;Polishing pots"
+f86bf7fb-544b-4712-a129-661724836988;145;10;Ravenclaw;Polishing pots
+d9f73d38-d771-4777-94b2-94218acc085e;115;20;Gryffindor;"Quidditch;Practice magic"
+36f3c81d-4453-4e8d-accf-789d0420309f;140;;Gryffindor;"Quidditch;Polishing pots;Practice magic"
+01815bee-76d8-4090-b48f-0721b11fb936;140;10;Hufflepuff;"Quidditch;Polishing pots"
+056f8920-9a29-4d47-8823-89c4100fd6b6;150;;Gryffindor;"Practice magic;Polishing pots"
+1f174c30-f2ff-4a74-95ed-6357d1949f40;140;;Gryffindor;"Quidditch;Polishing pots"
+92e783c1-01cb-4665-ac47-50671f1c0bc9;140;10;Hufflepuff;Quidditch
+453ab0ce-7aac-49e9-837e-81c42438ffff;125;20;Hufflepuff;Quidditch
+fc730252-319a-4b50-b723-8eb46babee59;125;;Gryffindor;"Polishing pots;Practice magic;Quidditch"
+70c7f064-7efc-4e32-987d-70b2363b30de;115;;Ravenclaw;"Polishing pots;Quidditch"
+9ce8ee65-ba30-4f5c-8c8c-27f6035114b8;110;20;Gryffindor;"Quidditch;Polishing pots;Practice magic"
+e705cc5b-08bf-4ace-a57a-c0001fad8440;110;10;Gryffindor;"Polishing pots;Quidditch;Practice magic"
+d980cd47-ad42-4fe1-ae43-c3b42968b9ed;140;;Hufflepuff;"Quidditch;Practice magic;Polishing pots"
+d7a3f68e-c040-49cc-a4a1-a7892ee5bbaf;140;;Ravenclaw;Polishing pots
+48cce4c7-6b50-4418-a364-554876ed02c8;130;10;Gryffindor;"Quidditch;Practice magic;Polishing pots"
+25907149-3cfe-42ca-ae0d-b11917cd62d1;140;;Slytherin;"Practice magic;Quidditch"
+935230c8-2601-415a-85a1-b25f2f8e17a1;120;10;Hufflepuff;"Practice magic;Polishing pots"
+6cdc7e35-a955-4d93-a803-c4b4847f1202;130;;Ravenclaw;Quidditch
+f7ad580d-22d8-42da-b56e-0d90722b5ff6;115;20;Hufflepuff;"Quidditch;Practice magic"
+33f56651-4a34-4aa9-a0ea-9663dd76d624;115;;Gryffindor;Polishing pots
+c05847ee-ba72-43e3-9449-98dc055cc33d;145;;Ravenclaw;"Polishing pots;Quidditch"
+e97de271-fe77-41a7-80c6-79fc8c10d70e;135;;Ravenclaw;Practice magic
+2521cbe9-2783-42bc-9020-9e4fb404ca92;100;20;Gryffindor;"Quidditch;Practice magic;Polishing pots"
+3198adc4-510b-4bfd-a955-d5ed0b4f0327;145;10;Gryffindor;"Polishing pots;Quidditch;Practice magic"
+49280393-0617-4a3f-9a02-6616848cb96b;105;20;Ravenclaw;Polishing pots
+076871ea-5f7c-4af3-ad1e-c6941a0f3655;145;20;Hufflepuff;"Practice magic;Quidditch;Polishing pots"
+f06d843f-debf-40bc-9ff4-0b8f51f20f33;100;10;Ravenclaw;"Polishing pots;Quidditch"
+b82069eb-cc40-418b-a846-2be68f9264a0;100;;Hufflepuff;"Polishing pots;Practice magic"
+2cf008b0-410c-434e-b194-c5951a7bd439;115;10;Hufflepuff;"Polishing pots;Practice magic;Quidditch"
+687921e5-a93c-4aa9-a154-93542e7065c0;120;10;Slytherin;"Polishing pots;Practice magic"
+5fbffbb5-a075-4cd8-9bc7-94bafb695cda;120;10;Ravenclaw;Practice magic
+bc343513-bab1-47d0-b2a0-709304136654;125;10;Slytherin;"Practice magic;Quidditch;Polishing pots"
+daf79d68-1484-4b08-a610-efada7fcae25;140;;Hufflepuff;"Quidditch;Polishing pots"
+416962f7-4348-4e07-9c53-28aa47415fcc;135;10;Ravenclaw;Quidditch
+e821a997-78f8-4a0b-a377-dec439d8a0df;120;;Gryffindor;"Polishing pots;Quidditch;Practice magic"
+2c41b6d1-5884-4798-8909-4c1f574b37e3;100;;Ravenclaw;Polishing pots
+9e15086b-f345-4c4b-882b-569f8ce38c41;105;;Ravenclaw;"Practice magic;Quidditch;Polishing pots"
+8e1d5dde-594e-48b7-96aa-b774862469fa;100;20;Hufflepuff;"Practice magic;Polishing pots;Quidditch"
+b05cc951-9ac1-48a6-9a10-43243426e854;135;10;Gryffindor;"Practice magic;Polishing pots;Quidditch"
+068e7852-3e9b-4544-9b41-55cf5a44753f;120;;Gryffindor;"Quidditch;Practice magic;Polishing pots"
+c77c64a9-e6a4-450b-8d18-49b39ef7c790;135;;Hufflepuff;"Quidditch;Polishing pots"
+1cdb8e00-adf1-43ee-956d-dda4f5965037;145;20;Hufflepuff;Quidditch
+82018eb9-5d77-4a93-bd11-47a179947b00;130;20;Gryffindor;Polishing pots
+14eb472b-472e-49a8-9a5b-f18e5f315de9;130;;Gryffindor;Polishing pots
+3b91ec1f-ddc8-4eb3-b63c-e0ae9ef2ed6c;150;20;Slytherin;"Polishing pots;Practice magic"
+18458da8-7b3d-4f0a-b53e-be7166a1e975;150;;Hufflepuff;"Quidditch;Polishing pots"
+3ef01afb-138c-4102-ba7e-c5f488215ec0;105;;Hufflepuff;"Polishing pots;Quidditch"
+50ffb046-cdf8-4751-9705-e50861e7d667;140;;Hufflepuff;Polishing pots
+9b802a23-8631-4d6a-9e1f-d9cd16aa0b6f;115;10;Slytherin;"Quidditch;Polishing pots"
+52f3b0f7-b3cb-4ac9-9894-b7000089008f;105;;Slytherin;"Quidditch;Practice magic"
+400c2002-40da-46f7-8daa-72e934ac1df7;120;;Hufflepuff;Polishing pots
+bf394a43-e579-460e-975e-c4cf0cdde719;150;20;Ravenclaw;"Quidditch;Practice magic;Polishing pots"
+8c206f7c-8546-41e3-a03c-d01a930088b4;105;10;Gryffindor;"Practice magic;Quidditch"
+a3354c2a-deed-4923-a775-c60a1c4319a4;115;20;Slytherin;"Quidditch;Polishing pots;Practice magic"
+398f6681-633d-407e-b2c2-c0d3cbd219c6;150;20;Ravenclaw;"Polishing pots;Quidditch"
+3d4bb757-8b7e-44e5-9004-eb76b7fcba6e;110;10;Hufflepuff;"Quidditch;Polishing pots;Practice magic"
+0658246b-c84d-4075-aeae-403a403beed3;125;;Gryffindor;Quidditch
+68c57533-ee77-47b2-b256-7e3cbfc56f4b;140;20;Gryffindor;Polishing pots
+a79320a5-a047-4d47-b816-a92dd7c0351c;130;10;Hufflepuff;Practice magic
+e1d16ec8-2ed5-40f8-a498-8e95b7454931;120;20;Hufflepuff;Polishing pots
+4dd50e4b-5494-4630-b183-8b6469232efd;120;10;Hufflepuff;Quidditch
+721f0cce-57fc-413b-9106-93b563a6e8e8;150;;Ravenclaw;"Quidditch;Polishing pots;Practice magic"
+5b5527a9-a8e2-4c59-9187-5c532ff07a66;150;20;Slytherin;Quidditch
+a1f32420-8cfd-42d4-907f-8e971c6bd980;100;20;Ravenclaw;"Quidditch;Practice magic"
+1e14115a-9230-46bd-ab73-6af22aaf0405;100;20;Slytherin;"Practice magic;Polishing pots"
+b0ca5022-0986-4e55-91d0-5405eb124e18;145;20;Hufflepuff;"Quidditch;Polishing pots"
+362e671c-bfcc-47bb-ae01-405ad1beba91;100;10;Gryffindor;"Quidditch;Polishing pots"
+1604af77-33b7-4fbb-9710-026e744b9d2c;110;20;Slytherin;"Quidditch;Polishing pots"
+bb65a32e-2182-4654-a1ec-915474b60865;145;10;Hufflepuff;"Polishing pots;Practice magic;Quidditch"
+a0067229-7b98-4ab0-b9ea-b5e76f579461;130;10;Hufflepuff;Quidditch
+f20e2926-70e5-4563-b443-44b2e52776a0;115;;Slytherin;Quidditch
+36c7cdb8-1c91-46b8-bfe6-e16cd217d8dc;100;20;Gryffindor;"Practice magic;Quidditch"
+88372fc8-3b39-4efa-937e-4675cef9ef4d;150;;Ravenclaw;Polishing pots
+f500c37d-6483-43ee-80cc-6f73ed62bbae;140;;Gryffindor;"Polishing pots;Practice magic;Quidditch"
+f8f33f9b-984b-48fe-a7bd-ed290e35ad81;130;;Ravenclaw;Practice magic
+b075bfdb-7c59-4357-b418-fecf53a7a95c;125;10;Slytherin;Practice magic
+6f1de961-a9c6-4b78-ba93-a99b8f3685ea;115;20;Gryffindor;Polishing pots
+19c1ca5f-6b02-406a-a39e-91f5d0e3b812;105;;Ravenclaw;"Quidditch;Practice magic;Polishing pots"
+64fdf92c-737c-4e22-ad61-b8d59f0e2008;110;10;Hufflepuff;Quidditch
+38f08ae4-312a-4a1c-aa67-d1180c9ff8be;145;;Ravenclaw;Polishing pots
+239be727-8ac7-411a-98c7-9767fb445d37;125;20;Gryffindor;"Practice magic;Quidditch"
+1c7a6adc-3b2a-45ae-b801-b990efc1f9b8;130;20;Slytherin;"Polishing pots;Quidditch;Practice magic"
+176149ae-4421-43de-ad1c-c7fb859aa4df;100;10;Slytherin;"Practice magic;Polishing pots;Quidditch"
+c4a1dd7b-d218-4a27-85e1-47087bece17e;100;10;Gryffindor;"Practice magic;Quidditch"
+96c300f0-dfb4-4a9e-995d-a45b5fde79c5;130;;Hufflepuff;"Quidditch;Practice magic"
+0e7d7d06-3484-4afd-8c2b-067fdd3ede3d;100;;Ravenclaw;Polishing pots
+197a0993-ee69-4ee0-bc4a-1298a0653e64;110;10;Gryffindor;Practice magic
+c9e9a29b-d27c-4483-a1ab-df50ba50fc1a;150;20;Ravenclaw;"Polishing pots;Quidditch;Practice magic"
+d4da02f0-55d1-42f3-94bc-b106812cd43e;130;10;Hufflepuff;"Quidditch;Polishing pots"
+a2ff2550-d96d-4c96-87b8-71a0346918ed;105;10;Ravenclaw;"Quidditch;Practice magic"
+72e9ac66-f67c-4d54-ab27-2712675fca31;120;20;Hufflepuff;"Quidditch;Polishing pots;Practice magic"
+33a1c57d-f815-45a5-8109-c850f4421e6f;145;;Gryffindor;"Quidditch;Polishing pots"
+a7ff73f2-1872-4041-ac3e-821af95a63ef;145;10;Slytherin;"Quidditch;Polishing pots;Practice magic"
+fe719ba7-9b40-41e9-81ba-bee3c356df1a;135;;Slytherin;"Quidditch;Practice magic;Polishing pots"
+a5b72593-1bb7-4592-a886-da547da4a59b;105;10;Ravenclaw;Quidditch
+0afd0e3c-77b9-40e4-9a56-e157d40f060d;115;20;Ravenclaw;"Practice magic;Quidditch"
+0e2271f9-47ee-4bdf-95c0-3574fd1bf516;135;10;Gryffindor;"Polishing pots;Quidditch"
+8f67f672-0810-46b0-a6ff-5b24cf5c3dbf;140;10;Gryffindor;"Polishing pots;Practice magic"
+3348fe72-e8fa-41e9-bbff-3d3dd99da5f3;125;20;Slytherin;Quidditch
+52ec33a5-8e01-43bf-9dc8-4680babe84a2;100;10;Hufflepuff;"Quidditch;Practice magic;Polishing pots"
+aee9f59a-07eb-41f8-b84b-7f9e42750045;135;10;Slytherin;"Polishing pots;Quidditch"
+7dd02bbd-6a91-4060-80f5-804650800238;140;20;Hufflepuff;"Quidditch;Polishing pots"
+5dc17c2c-115d-49cb-a977-e2444f532018;140;;Slytherin;Polishing pots
+4b5bfa3d-1716-4f0e-9edc-c5c8af7ca4a2;150;10;Slytherin;"Quidditch;Practice magic;Polishing pots"
+01115267-b3be-47c2-ac29-b2cb28c3ef6a;125;10;Hufflepuff;"Quidditch;Polishing pots"
+e7e9cd54-87b5-4cbb-b7de-11cbe343e2ab;135;20;Ravenclaw;Practice magic
+bd9f3215-546a-4cfe-8bfa-bf0dca521fe5;110;;Ravenclaw;"Polishing pots;Practice magic;Quidditch"
+6d7a0d4a-ae10-4326-bf98-84b62d249c8f;110;10;Slytherin;"Practice magic;Polishing pots;Quidditch"
+484f5215-163e-4404-9ff6-a5e91fe00074;110;20;Slytherin;"Quidditch;Practice magic"
+20b56997-6c10-49de-b58b-184a58e1b7a1;100;10;Hufflepuff;Polishing pots
+46744461-24a2-4423-a710-af39edc50a08;115;20;Gryffindor;Polishing pots
+eb7db831-6c05-4e61-b0d6-6eceeebef816;115;20;Gryffindor;"Quidditch;Polishing pots"
+9f31ea3c-f34d-4931-8b1f-d7b5f25101e0;100;10;Hufflepuff;Polishing pots
+86f1dcd3-7502-4a1c-b022-1d45b99df527;135;;Slytherin;"Quidditch;Practice magic;Polishing pots"
+d8ee5d5e-ed35-4c8c-84e4-094e56e190e4;120;;Gryffindor;"Polishing pots;Quidditch;Practice magic"
+ea8637df-d709-474c-825b-f3c44b6e7322;120;;Ravenclaw;"Polishing pots;Quidditch"
+98c446ed-7cc2-40ad-9c59-f2001711e9ef;145;20;Slytherin;"Quidditch;Polishing pots"
+178c4e25-057e-40e1-a6f5-f25346595d9e;110;10;Ravenclaw;"Quidditch;Practice magic;Polishing pots"
+04e3409a-afcf-4333-93b4-d52c3eea2302;140;10;Ravenclaw;Polishing pots
+52de6211-b00b-43e6-ac0c-a8da7917fa48;130;20;Slytherin;"Quidditch;Practice magic;Polishing pots"
+c8f323ff-7f53-46ac-bd51-23cac5a33f26;120;;Slytherin;"Practice magic;Quidditch"
+c59b06a4-0fac-40cc-b825-0f54a19a7848;110;20;Gryffindor;"Polishing pots;Quidditch"
+af9bf030-1eda-40c4-8221-ddc11cb3c366;115;10;Hufflepuff;"Polishing pots;Practice magic;Quidditch"
+e5c936d0-85c1-402c-9514-e66920eed236;140;10;Slytherin;Polishing pots
+53cda511-8dfb-4a13-b3f2-5d2ecf76da28;130;;Gryffindor;"Polishing pots;Quidditch;Practice magic"
+4ef81eea-4048-4254-9900-ecd8615352f3;110;;Gryffindor;Polishing pots
+69ecef67-a82e-4c61-8156-9fbb5f8c910f;110;;Ravenclaw;"Polishing pots;Quidditch;Practice magic"
+10a8b17d-8f4a-4d1c-8370-ba04874f92b8;115;20;Slytherin;"Polishing pots;Quidditch;Practice magic"
+295fcc24-faca-4635-a900-ea2bcbae9da3;125;20;Slytherin;Practice magic
+34404b89-62da-4d32-8eee-d48d91d3724e;140;20;Hufflepuff;"Practice magic;Polishing pots;Quidditch"
+f46e14c7-d42c-41f1-a310-821b90d17dba;140;;Hufflepuff;"Polishing pots;Practice magic;Quidditch"
+0761c5b7-63f2-42ee-95b2-25475231828e;125;10;Hufflepuff;"Quidditch;Practice magic"
+1dffb16c-129d-4287-ab7e-8c0b6a35a9be;110;20;Ravenclaw;"Polishing pots;Quidditch"
+feb626ba-d882-4aa6-815c-c9079ba5c110;105;;Ravenclaw;Polishing pots
+488564f4-65fc-482b-91ef-536911162af1;130;10;Slytherin;"Practice magic;Polishing pots;Quidditch"
+341b3ad2-0806-4722-ab99-2768b937dc42;150;20;Gryffindor;Polishing pots
+75a46034-ae99-4fdf-929d-868d09f8ad1f;115;;Ravenclaw;"Polishing pots;Quidditch"
+d240d189-a725-4fe9-b8ec-fe4c8b9862b3;110;10;Ravenclaw;Quidditch
+6b9e4c3d-6d75-4bf0-9262-999b9faf14b9;130;10;Gryffindor;Practice magic
+efb3b273-fd8a-4cc1-869c-6ad069f25d49;100;20;Gryffindor;Practice magic
+1c4572d4-c299-4777-81da-3d57dbf79156;120;20;Ravenclaw;"Practice magic;Quidditch"
+06df9150-abe5-4bfd-8a2d-445d00bc09d6;110;10;Hufflepuff;"Polishing pots;Quidditch"
+5dbbb860-47bb-42c1-9383-465b05f7b1b6;130;20;Hufflepuff;Polishing pots
+a5077ab8-721c-4dfc-bd59-384f3a72bdae;115;10;Gryffindor;"Quidditch;Polishing pots"
+cb63dd48-b41c-4b8a-89dd-46fae888fb95;140;20;Gryffindor;"Quidditch;Practice magic"
+1eeb9d44-4aac-4fe5-bb3b-d532b9b663d0;140;10;Hufflepuff;"Polishing pots;Practice magic;Quidditch"
+16a872c4-758c-4263-bb78-92008df51053;120;20;Slytherin;"Polishing pots;Quidditch"
+19b65122-50ac-430b-a957-5260956ef466;120;10;Hufflepuff;"Practice magic;Quidditch"
+1a8edc3d-fe85-415b-ae28-edb98630131e;110;20;Hufflepuff;"Practice magic;Quidditch;Polishing pots"
+c9f8a658-9ed1-4159-a7f0-28c0370297e1;120;20;Slytherin;Practice magic
+feb8d50f-7505-4064-bd51-db71d3d7d5bd;135;;Slytherin;"Polishing pots;Practice magic;Quidditch"
+63440b72-a155-4c53-935b-3b82ec6961ec;130;10;Hufflepuff;"Practice magic;Quidditch"
+07b4b4df-8005-45e8-bc84-dd73265b0005;150;10;Ravenclaw;"Practice magic;Quidditch;Polishing pots"
+a0addf49-568d-47ad-9240-96ce20425dcf;150;10;Slytherin;Quidditch
+a7801b48-5278-4cb7-8639-074752355ee6;145;10;Hufflepuff;"Polishing pots;Quidditch;Practice magic"
+6249b13e-4ebf-48c1-b93c-886ec1a25c02;145;20;Gryffindor;"Quidditch;Practice magic;Polishing pots"
+0bc9fe9c-3f1c-4c53-9e6a-2abad3c7fdd0;105;20;Gryffindor;Polishing pots
+747f4397-bb10-4ace-b1c5-30e3b20f60b8;125;20;Gryffindor;Practice magic
+cf0de6e6-a9b7-45c0-964c-cdbef80d630c;105;20;Slytherin;Polishing pots
+e7b29985-2ebd-4855-aeae-8ac0f5fa3cc2;120;;Ravenclaw;Quidditch
+58105efa-662c-4599-8bbb-1e8d67e65ce8;100;20;Gryffindor;"Practice magic;Quidditch"
+1e7c816a-f404-42a2-9fe2-275e09896283;100;10;Gryffindor;"Polishing pots;Practice magic;Quidditch"
+4bf47e35-246c-44c2-b5fe-50aeaa8a4512;120;10;Hufflepuff;Practice magic
+5bf4d606-db31-433c-9454-9bd7f11046b6;145;;Gryffindor;"Polishing pots;Practice magic"
+609c3c4c-3390-4849-9bd9-fce69ebcb945;135;20;Slytherin;"Polishing pots;Practice magic;Quidditch"
+603ef186-cc10-4491-a464-45d660fded58;105;20;Gryffindor;"Quidditch;Polishing pots"
+98da196a-d6d7-4cc1-8bd8-0f38bd058051;140;;Hufflepuff;Polishing pots
+fd938252-e0d9-489f-bf68-485a7dfe4e8d;140;;Hufflepuff;"Polishing pots;Quidditch"
+b806ae11-2127-44e2-884e-c4c9a0c62231;135;;Ravenclaw;"Quidditch;Practice magic"
+c4f4f312-ab07-4cbb-a594-5cf6388cccc2;135;20;Hufflepuff;"Polishing pots;Practice magic;Quidditch"
+bf49a3ed-e151-4a82-bbc2-3bf536b78f08;140;10;Slytherin;"Practice magic;Polishing pots;Quidditch"
+59517957-3ce2-4ae2-9986-2c627a766d7b;115;;Ravenclaw;Polishing pots
+8f570b28-2adc-48cf-9a4c-d901f6d8d08f;145;10;Hufflepuff;"Practice magic;Quidditch;Polishing pots"
+d95b6391-ceda-498c-9df2-655d7da39221;115;20;Gryffindor;"Practice magic;Quidditch;Polishing pots"
+d387979f-f5c5-4bcc-a0b1-4104a744cb93;120;;Hufflepuff;"Polishing pots;Quidditch"
+c99c2b39-1449-4797-8876-4da8cb2bbb1d;145;;Hufflepuff;Quidditch
+76737fb9-0872-4818-bbe3-b1e06accffb8;115;10;Gryffindor;"Quidditch;Practice magic;Polishing pots"
+9c416869-1d3e-47a8-8b0a-27dac5bf5c14;130;10;Slytherin;"Quidditch;Polishing pots;Practice magic"
+55f624e1-eddf-4914-b3fc-254921cd6f99;135;10;Ravenclaw;Practice magic
+1d4e04f8-d990-4825-80eb-44836dc5ec33;105;10;Gryffindor;Quidditch
+a0f6f556-af41-4dcb-b9b7-ce572b8080d0;100;;Hufflepuff;Polishing pots
+f644ce8d-1db7-420f-a2fe-8efc79ce5925;120;20;Ravenclaw;"Quidditch;Polishing pots;Practice magic"
+97275705-82d4-497e-8252-c3468fa169e8;145;10;Gryffindor;"Polishing pots;Quidditch;Practice magic"
+d9fb8a9f-f0c3-49d1-9587-bf1be5c19304;140;20;Gryffindor;"Polishing pots;Quidditch;Practice magic"
+07b69cf6-9cdf-4f9b-be48-e4b235981eea;120;;Gryffindor;Practice magic
+ae74d3cf-cbfc-4d7f-89fa-d1c0926c004d;135;20;Slytherin;Quidditch
+fc377ede-ee26-40af-83ac-6a97d76309bd;140;20;Gryffindor;"Practice magic;Polishing pots;Quidditch"
+196b36ad-086c-4585-824d-ee2ef2c16f0f;115;;Hufflepuff;"Quidditch;Polishing pots;Practice magic"
+be8faf77-7a2b-4518-9c45-7737eeae3698;145;;Hufflepuff;Quidditch
+872f829e-2b0e-4386-bb20-1ef415d5f6c6;125;10;Gryffindor;"Practice magic;Quidditch;Polishing pots"
+dde871b3-5b31-4691-a8b3-1a3603d4d1de;150;;Ravenclaw;Quidditch
+fc553dc9-fa72-457a-a357-5beaab7a053a;105;10;Slytherin;Polishing pots
+ffb17dd9-6e19-4105-a8ec-51261946020f;120;20;Hufflepuff;"Practice magic;Polishing pots"
+02475538-e69c-40d3-bc2a-c356d5558750;115;10;Slytherin;"Practice magic;Polishing pots"
+eb32be4e-6af7-4c56-ad9f-0da5c3359a37;100;20;Gryffindor;Practice magic
+fdc78489-f76a-42e0-a9d7-dfca0584d99e;125;;Slytherin;Practice magic
+b668f696-081c-4c2e-864d-ab2366c472bc;135;10;Gryffindor;Quidditch
+0e7b10ef-80ca-4c3f-9cc3-852b0f807c06;100;20;Gryffindor;"Practice magic;Polishing pots;Quidditch"
+e3993b2c-b576-4617-a0d6-aa90ece069f6;110;10;Hufflepuff;"Quidditch;Practice magic"
+3c969c61-b543-479f-bc34-1e7677d174ca;100;;Gryffindor;"Polishing pots;Practice magic"
+8059f71d-dd0f-429d-afe5-d3ae1163137f;110;20;Hufflepuff;"Polishing pots;Practice magic"
+cffbfee6-f511-4f4e-8601-d45fdcdb357f;125;20;Hufflepuff;"Quidditch;Practice magic"
+80ca3b7b-807c-4b82-9fad-fd45833b58ab;150;;Gryffindor;"Quidditch;Practice magic"
+040fcdde-085f-4666-af4f-881d191bec72;135;;Ravenclaw;Quidditch
+f6b747f8-d9e1-4991-bf74-2263fb7e7697;130;20;Hufflepuff;"Quidditch;Practice magic;Polishing pots"
+e49fa7d6-b217-41bf-8298-af7ff2377d51;115;20;Gryffindor;"Polishing pots;Practice magic;Quidditch"
+c1c540af-065d-4f81-80da-86c89dd4882b;110;;Slytherin;"Practice magic;Quidditch;Polishing pots"
+a713111c-b2f6-4b35-b07f-f9da1ad8a45b;120;10;Slytherin;"Polishing pots;Practice magic;Quidditch"
+51cbf043-1721-4a63-966b-689f99da3226;105;20;Slytherin;"Practice magic;Quidditch;Polishing pots"
+6574a346-dfb8-4861-8b37-39e5455f92f0;120;20;Hufflepuff;"Quidditch;Practice magic"
+e48cbcc7-0029-4aa0-8c51-1140af221e36;120;10;Ravenclaw;"Quidditch;Polishing pots"
+703e324e-51b0-4ef3-a33d-22c943a96692;110;10;Hufflepuff;"Practice magic;Quidditch;Polishing pots"
+c45d4934-474c-4370-ba98-6de1b595a062;145;;Ravenclaw;"Practice magic;Polishing pots"
+14fc447f-d4a6-4de1-9bbf-a2a0725b2046;105;10;Ravenclaw;"Polishing pots;Quidditch"
+44a0b540-31cb-491f-bc2c-4862ba031e87;130;20;Gryffindor;"Polishing pots;Practice magic;Quidditch"
+29fa87e7-c93c-40d6-91d6-c045e1aa8732;135;20;Hufflepuff;Practice magic
+438650bb-adad-4aae-bc41-89ab6ab5a1ea;105;;Slytherin;"Quidditch;Polishing pots;Practice magic"
+6f36b1dc-60c1-4a42-8fdd-aac81504de3f;145;20;Hufflepuff;"Practice magic;Polishing pots"
+0f7ff78b-0c0a-4421-b427-3b9c7c45ea7d;130;20;Gryffindor;Practice magic
+2d2dc532-c3ae-4e94-b179-b83f6f8e43c2;150;;Slytherin;"Quidditch;Practice magic;Polishing pots"
+adc4a00e-7573-4881-8296-6b939a2f2891;100;10;Ravenclaw;Quidditch
+c9f7dd11-8cac-4ae3-9293-62acf257b04b;150;20;Gryffindor;Practice magic
+7b6e866b-2012-4c77-afb9-2cd3b6f87bf2;140;20;Slytherin;"Practice magic;Quidditch;Polishing pots"
+7502a842-0b0b-48b6-8931-06f931e3c1b2;135;20;Ravenclaw;"Practice magic;Quidditch;Polishing pots"
+b5998200-4af4-4989-a267-6bcebc2babb1;125;20;Hufflepuff;"Practice magic;Quidditch"
+2540b1f5-dfe6-4377-bcaa-6f15f1c45b98;125;20;Slytherin;"Polishing pots;Quidditch;Practice magic"
+29eee914-2ac6-4954-956a-e0a2ab0ae49c;110;10;Hufflepuff;"Polishing pots;Practice magic;Quidditch"
+2e43e1ce-83e4-440d-b55b-d4cf3016b2d7;150;10;Gryffindor;"Practice magic;Polishing pots"
+7bcfbca5-4438-4b8e-ae1b-4d80e701fd38;145;;Slytherin;Polishing pots
+dd05164c-10b1-4804-ad68-3805f2c69a69;100;20;Ravenclaw;"Quidditch;Practice magic"
+082d0e4b-9324-4564-adba-39395d03f7c3;125;;Hufflepuff;"Quidditch;Practice magic;Polishing pots"
+8fa32660-d416-4ec7-9ed8-b18bb958bdc4;100;10;Gryffindor;"Quidditch;Polishing pots;Practice magic"
+afe26afe-2749-4948-a848-c25405adb48b;125;20;Ravenclaw;"Quidditch;Practice magic;Polishing pots"
+82c5b56a-bfe1-4a96-b9f9-020ff39066b8;145;20;Gryffindor;"Polishing pots;Practice magic;Quidditch"
+09796a39-701d-4106-9b87-7941501c1484;105;;Ravenclaw;"Practice magic;Polishing pots"
+da06c797-1125-4458-a171-727b10278939;115;10;Gryffindor;"Polishing pots;Practice magic"
+83c56c3b-1565-47d5-a837-c82c3ffb3e0e;120;20;Gryffindor;"Polishing pots;Quidditch"
+8fb7de6c-7b8a-4d5a-b577-9cd87845dd02;130;10;Slytherin;"Practice magic;Quidditch;Polishing pots"
+8a706455-a24d-4e95-9636-6da088de5b57;125;20;Hufflepuff;"Practice magic;Polishing pots"
+84d41a76-872b-4f8f-8bac-5cefe8d90786;110;20;Ravenclaw;Quidditch
+5b479181-7ebb-4b2b-824c-ca4f33dd0e77;115;20;Ravenclaw;"Quidditch;Polishing pots;Practice magic"
+e0eead34-8368-4763-99b0-787964d4c04e;110;10;Ravenclaw;"Polishing pots;Quidditch"
+fd5847c7-c587-4ec1-910f-42fb023e2b49;115;20;Ravenclaw;"Polishing pots;Quidditch;Practice magic"
+20b7ba28-4401-4b88-8cc9-4e540c049ab5;145;20;Slytherin;"Practice magic;Quidditch"
+93f57849-035d-4294-8f9b-c346a9d25e8d;110;10;Slytherin;"Quidditch;Practice magic;Polishing pots"
+5d22adf4-3d2e-4d7a-a740-eb64e132a567;105;20;Slytherin;Polishing pots
+2a09eb6c-fc6b-4924-b6fa-f0bb95d0dd03;125;10;Hufflepuff;"Quidditch;Polishing pots"
+16b02bff-c38a-41a4-b34e-e8623e393d3f;110;;Slytherin;"Practice magic;Quidditch"
+1ae462bf-7291-4376-b4ef-017938eb7821;115;20;Slytherin;Quidditch
+cd6e58a4-4d35-461d-8d47-aa5223f56d93;115;;Hufflepuff;"Polishing pots;Practice magic"
+7330b96f-fa28-40d7-8301-bc3dec99bf06;145;10;Gryffindor;"Practice magic;Quidditch"
+0dacf52e-8d17-40f0-b46b-63bb8458a9af;120;10;Slytherin;"Practice magic;Polishing pots;Quidditch"
+87f82189-3dc1-4627-80d2-a46841ccfc90;120;;Gryffindor;"Practice magic;Quidditch"
+afa8f4af-be77-4079-9ddb-48b3531212d3;130;10;Hufflepuff;Polishing pots
+07f228a9-a97e-48fa-8973-201696a26180;145;10;Hufflepuff;"Quidditch;Practice magic"
+35fc9354-cf4e-4620-8054-189bacacc7b2;120;10;Slytherin;"Polishing pots;Quidditch"
+9854a888-04b7-4283-baab-96d228e92e4f;135;10;Ravenclaw;"Polishing pots;Practice magic"
+6afdf438-9879-4bf1-89f0-1eb4072bb26c;120;10;Hufflepuff;"Polishing pots;Quidditch;Practice magic"
+da2e8a35-ec44-421b-a119-f728e70c3024;110;10;Hufflepuff;"Quidditch;Polishing pots"
+e01d5bb7-b6e3-46d1-8dfe-8162ce075445;145;;Hufflepuff;"Quidditch;Practice magic;Polishing pots"
+f8c93dab-c241-441f-b141-8987866ba035;130;10;Ravenclaw;"Polishing pots;Quidditch"
+9477ee79-2f95-404b-a5e9-3fc7daa84561;115;10;Ravenclaw;"Practice magic;Polishing pots"
+75e5c571-1842-4a25-986b-7f339f0c18b7;130;20;Slytherin;"Polishing pots;Quidditch;Practice magic"
+c11b6ce2-c4d2-4ea5-94aa-0d082ef12b45;100;20;Gryffindor;Practice magic
+d79330e2-6ad2-4a13-b5e5-50445eaa7598;125;20;Gryffindor;Practice magic
+d45b8ca5-9f01-4d0e-beb6-7d1965c354a1;110;20;Gryffindor;"Practice magic;Quidditch"
+dfb26a2a-8ed0-4263-aa6b-6923430df2ef;135;10;Hufflepuff;Polishing pots
+5f42d166-e23e-4520-9b2c-390c22651233;115;20;Hufflepuff;Practice magic
+ed40cc26-3e63-4a05-8e66-dbc573ba2456;115;10;Slytherin;Polishing pots
+68b009df-dd01-4e9a-b4f2-1768e3d296ab;145;10;Slytherin;"Polishing pots;Practice magic"
+861e24fd-42ff-4c9a-83f0-02b242da4aba;115;20;Hufflepuff;"Polishing pots;Practice magic;Quidditch"
+200e5227-6898-47b6-a05c-faf7f1e0863f;120;10;Hufflepuff;"Quidditch;Practice magic;Polishing pots"
+591e7b6c-161a-45d3-a089-17c419fbdb65;100;10;Gryffindor;"Polishing pots;Practice magic"
+b0b54f53-c3b0-49f3-8140-b165b43a421b;120;;Hufflepuff;"Quidditch;Practice magic"
+54971b92-f7d4-4dbc-9194-a6f47dc12d1a;125;20;Hufflepuff;Quidditch
+78e9136a-0239-4efc-b8fa-eb0264cd3d87;120;;Slytherin;"Polishing pots;Quidditch;Practice magic"
+4ce92ed7-4ce3-4ea3-ae85-37301431da44;140;;Ravenclaw;Polishing pots
+cc9fdc8a-2f30-4bb2-9e07-979b32ebf441;150;;Hufflepuff;"Polishing pots;Practice magic"
+4a1d366a-d044-42e4-bcf5-5720ff872cd8;150;10;Ravenclaw;"Polishing pots;Practice magic"
+172590fe-0567-4f57-87de-d18933ca19c9;145;10;Ravenclaw;"Polishing pots;Quidditch;Practice magic"
+7cac18a9-3b07-40ff-b17f-1b0ae838b68e;115;20;Gryffindor;"Quidditch;Polishing pots;Practice magic"
+d45c4c16-9d6e-4093-a6d7-27c7930a4d51;150;10;Ravenclaw;"Quidditch;Practice magic;Polishing pots"
+d0b40afb-9127-4474-8452-3d8d2ec580b2;125;10;Gryffindor;Polishing pots
+cf789619-4e91-4248-b80a-41be22d38498;115;;Gryffindor;"Quidditch;Polishing pots;Practice magic"
+e00d1056-9c5c-4756-bea7-13c37a9415d3;140;10;Ravenclaw;Practice magic
+d4e7cb0e-b698-474e-a1cc-e2f49505b494;125;10;Slytherin;Practice magic
+9130b98c-bc2f-42cd-a6fb-72b5c6eac94c;115;;Gryffindor;"Quidditch;Practice magic"
+0b3326b1-85e8-4c24-a0d4-5a5e6b68d7a2;135;10;Slytherin;Practice magic
+93350133-4ac1-4fd8-9f50-eed617cb9c18;125;10;Hufflepuff;"Quidditch;Practice magic"
+8ed85146-fc68-448b-a81e-19ae2d037a32;100;20;Slytherin;Quidditch
+a80bff82-28f3-4a89-b6a4-ed1b8fe3967f;135;;Ravenclaw;Polishing pots
+90d377a4-9d7e-478d-afee-60d856fbd3eb;150;10;Slytherin;"Practice magic;Polishing pots"
+254d3a50-1c3d-48f6-9ce4-a5d58411b238;150;;Gryffindor;Quidditch
+b2e7ca68-5779-421e-aa37-aa0bb33016e7;125;;Gryffindor;"Quidditch;Practice magic;Polishing pots"
+9fc51f78-de08-4ddc-97d3-8b234fe9c394;120;20;Ravenclaw;Practice magic
+5b596ee8-cd99-4d58-90cd-8f478cce7420;120;10;Gryffindor;Polishing pots
+cc7f1821-ef2c-42a8-8161-3e5d42e448a8;100;;Hufflepuff;Quidditch
+62119378-42b8-4120-b831-2f7de8822f10;140;;Gryffindor;"Quidditch;Polishing pots"
+8f8ffc51-1bd6-4e68-a589-effb9d899dd8;125;10;Hufflepuff;"Quidditch;Practice magic;Polishing pots"
+027ce14e-74a3-4872-b603-7f4290296af2;105;10;Slytherin;"Quidditch;Polishing pots"
+ec3f6cad-d3d3-49b5-8fe9-6a51d352d909;110;10;Ravenclaw;"Practice magic;Quidditch"
+7818f72f-c161-42b8-b14c-7a7ad460f165;135;10;Slytherin;Practice magic
+aa4df880-2dff-4791-9472-c5b301f32dac;130;;Hufflepuff;"Practice magic;Polishing pots;Quidditch"
+a39aca68-c8d1-4fb7-b2dc-e88deba359f1;125;20;Ravenclaw;"Practice magic;Polishing pots;Quidditch"
+e97fa97c-608c-4635-bf8e-a29d0815f4a9;140;;Ravenclaw;"Quidditch;Polishing pots;Practice magic"
+214e6850-f8cb-4ce5-b8d9-d6cb84e62325;150;10;Gryffindor;Polishing pots
+502e347c-d798-4fc5-aa15-e4fd3d24cccf;110;10;Hufflepuff;"Quidditch;Practice magic"
+8a98b1ec-0511-4f38-a7b0-c36569be8305;145;;Slytherin;Polishing pots
+a75d116d-1d5b-4889-a389-28db737beb1c;120;;Slytherin;Quidditch
+d47ecc23-8852-49d5-8820-fc89b7f4f47f;140;10;Gryffindor;Polishing pots
+0b90cb93-c032-4d85-9352-289bb1923963;105;10;Hufflepuff;"Polishing pots;Quidditch;Practice magic"
+371346d9-eb22-4421-af0e-227ebdeffc3b;130;20;Slytherin;"Practice magic;Quidditch"
+46fc7941-517a-4022-94bc-c09bc7beaa0f;145;20;Ravenclaw;"Polishing pots;Practice magic;Quidditch"
+3b764c1e-1e85-41cd-9763-0ab797f5b7e6;145;;Hufflepuff;"Polishing pots;Practice magic;Quidditch"
+621d8280-6afc-43e8-aa6d-605b5c5b686c;135;20;Slytherin;Quidditch
+be8ea1e0-03a7-4fa3-94e4-1205830b96a1;150;;Slytherin;"Quidditch;Practice magic;Polishing pots"
+5188c7fe-ed52-4b4b-af53-1494e563578f;125;;Slytherin;"Quidditch;Polishing pots;Practice magic"
+8d4873eb-a6e1-42d3-a1c1-2442b7216ed2;110;10;Gryffindor;"Polishing pots;Quidditch"
+e3835132-ee35-4262-8db5-b9b46c328b5b;150;;Hufflepuff;Polishing pots
+5b22dfb1-a667-4b89-b5dc-9bb1d2bd190b;110;20;Ravenclaw;"Practice magic;Polishing pots"
+89d7970d-67b0-4686-a25b-e0ff1ac4dbc8;105;10;Ravenclaw;Polishing pots
+240e7c86-7c92-4b95-87a7-8605cf6270fd;135;20;Hufflepuff;"Quidditch;Polishing pots;Practice magic"
+ea3d9590-c644-46ff-bd67-acede235c6a9;125;10;Ravenclaw;"Polishing pots;Practice magic"
+9e491ec8-52dd-442f-ba07-3cdd9880d092;130;;Slytherin;"Practice magic;Quidditch;Polishing pots"
+df80fe1e-0eef-43f1-af10-214d8046d11c;125;;Gryffindor;"Quidditch;Polishing pots;Practice magic"
+7c7e8524-f589-459c-a34b-169973c33fbd;140;20;Gryffindor;"Polishing pots;Quidditch;Practice magic"
+e3141ec0-225e-4ee3-a026-e7b357647159;100;10;Hufflepuff;Practice magic
+30726d91-52c1-4cc9-ba56-840d44842bea;105;;Hufflepuff;"Practice magic;Polishing pots"
+73371ae8-2343-4c34-80a3-061c1682db9f;140;20;Hufflepuff;"Quidditch;Polishing pots"
+19113658-0688-45d1-ae83-c81bd1692669;100;20;Slytherin;"Polishing pots;Practice magic;Quidditch"
+016e5539-3ac6-4bbc-8add-41aac595abb3;120;;Gryffindor;"Practice magic;Polishing pots"
+9ef36998-c9ab-431f-8ed4-a5c150643d10;150;;Ravenclaw;Polishing pots
+bb838596-edcb-4f9a-a8ce-e3d8d5277b22;145;;Gryffindor;Polishing pots
+51d8c570-2091-418a-a2a0-ceda3ddb57c7;105;10;Slytherin;"Practice magic;Polishing pots;Quidditch"
+735eca4c-8b26-4bf6-8c97-8b8c61e4df1e;120;20;Gryffindor;"Polishing pots;Quidditch;Practice magic"
+41ee40f8-6f42-4020-952f-7d387ff6d804;120;20;Hufflepuff;"Polishing pots;Practice magic"
+3745d1a3-6513-4f82-a8dc-9ce01d292a97;140;20;Gryffindor;"Practice magic;Quidditch;Polishing pots"
+ff649bff-05ac-4918-ab28-953e4e4feefc;120;;Slytherin;"Practice magic;Polishing pots"
+f13d9712-2b9f-459a-a559-807d6935b4ed;130;10;Hufflepuff;Practice magic
+6eaaa58e-5376-4446-ae04-fa48a50db5cb;125;;Hufflepuff;Practice magic
+f5612e00-2b3e-487b-a6ed-d5ae3fefb842;120;;Hufflepuff;Polishing pots
+4933508c-e789-4cdc-bbfa-52077f65096a;120;;Ravenclaw;"Practice magic;Polishing pots;Quidditch"
+358edce7-2a61-4cfc-8246-aed65185163b;140;10;Slytherin;"Quidditch;Polishing pots"
+b541a7a9-a36a-47c3-9509-adbbbff6557f;100;;Hufflepuff;Practice magic
+201e6b6a-3ceb-4403-9b06-f517fddc5bc9;100;;Ravenclaw;Practice magic
+df6900d3-9893-4280-9b8c-433e15e84dbb;145;10;Hufflepuff;"Practice magic;Quidditch;Polishing pots"
+ac5555b2-a86f-454f-9f85-b80e5e3ae81e;135;10;Gryffindor;"Quidditch;Polishing pots"
+a4268242-dfca-4a71-821b-4a93b0ad754d;110;10;Slytherin;"Practice magic;Polishing pots"
+feee55db-be49-468c-ac47-76682d273af8;100;20;Ravenclaw;"Polishing pots;Quidditch"
+2b9f42dd-3d7b-4c57-979c-1a9c3686f5fa;115;10;Slytherin;Quidditch
+59640802-ba37-476c-9b44-65160d7593d0;120;10;Ravenclaw;"Quidditch;Practice magic"
+d5c4aa0d-959e-43fa-8562-49de3ebd41dc;130;10;Hufflepuff;"Polishing pots;Practice magic;Quidditch"
+50e71595-7596-47a0-98a4-967f2a5e7475;115;;Slytherin;"Quidditch;Practice magic"
+7d14fa50-874d-40f1-b6e0-570e9c64bcb8;100;20;Slytherin;"Quidditch;Polishing pots"
+a819ce65-92e4-4e7e-8c70-9c2818c9f1e2;120;10;Slytherin;Practice magic
+0d3f1a0f-4b6b-4e6f-b990-52a8edb3301f;150;20;Slytherin;"Quidditch;Practice magic"
+c5ec6a5e-1bb9-456c-b0f8-e8deb566617b;100;20;Ravenclaw;"Practice magic;Quidditch"
+cc633468-4017-4b36-8d5f-fb6c34a3636b;100;20;Gryffindor;"Quidditch;Practice magic;Polishing pots"
+8bc9e26f-ae34-443d-8a14-8390df1f5c22;105;10;Gryffindor;Practice magic
+a15c6f70-86dd-4cb0-a415-55175e014db3;135;20;Gryffindor;"Practice magic;Polishing pots;Quidditch"
+49da6e65-e3ac-4a37-8b12-41fa778dbc3c;115;;Ravenclaw;"Quidditch;Polishing pots;Practice magic"
+22822d79-e52e-4c46-8c3f-b82b4e7f925f;115;10;Slytherin;"Polishing pots;Quidditch"
+a572f550-881d-4311-b038-4f04fadbeb3a;120;;Slytherin;"Quidditch;Polishing pots"
+9b1a9889-2474-4cc4-81c2-f6a96e3a8d07;125;;Ravenclaw;Polishing pots
+050dab7c-b086-4c36-8327-5d651cf1f0fa;115;20;Gryffindor;"Polishing pots;Quidditch;Practice magic"
+82ff2231-2e4f-4186-947a-bfceeb0cbadb;135;;Ravenclaw;"Polishing pots;Practice magic;Quidditch"
+ec706f9f-d987-4d5c-8048-b2d6b3633dbc;105;10;Gryffindor;"Practice magic;Quidditch;Polishing pots"
+f333deff-b99d-43af-a6fb-9d59bbd5b3b5;115;;Slytherin;"Polishing pots;Practice magic;Quidditch"
+f69329ec-2e3e-4f04-8855-230e76f5a6ad;105;10;Hufflepuff;"Practice magic;Polishing pots;Quidditch"
+0288b7bb-6324-4a63-985f-38d4e768a919;110;10;Ravenclaw;Quidditch
+b084a0c8-bcf9-4840-94dd-cd48beba3ee6;115;;Ravenclaw;Polishing pots
+cf999f15-17be-42ea-b5b4-5023a6815be4;105;20;Hufflepuff;"Practice magic;Quidditch"
+27c49f42-4494-48e3-947f-00b87af1b2b3;145;20;Hufflepuff;Polishing pots
+c735b078-e193-4121-8779-8e0eb8307442;145;10;Ravenclaw;"Quidditch;Practice magic;Polishing pots"
+f2ce5c30-354a-4eb3-89b8-21d65ece60e7;145;10;Slytherin;Polishing pots
+0c201f82-defb-44fb-9f91-694e81db47ce;150;;Ravenclaw;"Polishing pots;Practice magic;Quidditch"
+38ca7c62-ec48-4e28-a14e-3281a3cf86d7;115;20;Slytherin;"Polishing pots;Quidditch"
+eefc25ea-54ca-4def-9944-7c5b67f36454;110;20;Ravenclaw;Quidditch
+37a66c3b-34a4-418b-9d13-6ae93886e664;130;10;Gryffindor;"Practice magic;Polishing pots"
+4f6f5e9a-bfd3-4e9f-9204-14d60d4544a8;105;20;Ravenclaw;"Quidditch;Polishing pots;Practice magic"
+21b787c9-194e-4646-80c6-dd6e7bff1114;100;;Gryffindor;Polishing pots
+9105bb3d-05e6-4002-9e74-7911c3694c52;145;10;Gryffindor;"Practice magic;Quidditch;Polishing pots"
+7816c4c3-f41a-45e3-9f94-6bdece58f365;115;;Slytherin;"Practice magic;Polishing pots"
+e25330e2-29c1-46bd-b00c-e00711de2fda;120;;Hufflepuff;Quidditch
+8940d4b0-aa1d-4d41-bc03-b1ab07e12084;125;;Ravenclaw;"Quidditch;Polishing pots"
+6c520d7e-a234-49a0-a25b-94dbe452c502;115;;Ravenclaw;"Practice magic;Quidditch;Polishing pots"
+46cc29ef-77bb-4bec-aaaf-eec401a47ef5;105;;Hufflepuff;"Quidditch;Practice magic"
+8398aef8-ef8f-4bb5-bf55-ec4bac82bee9;145;;Slytherin;Polishing pots
+503fec3a-4dc0-4e8b-acd9-76e0ef3d0e09;100;10;Ravenclaw;"Polishing pots;Practice magic"
+972e1fc7-213c-4f7a-b1dd-34bfb309bf26;110;10;Slytherin;"Practice magic;Quidditch"
+06ba0018-d11f-46b3-bcd1-5fceebbc9135;100;;Hufflepuff;Practice magic
+473e6847-3dc0-4d08-ae2b-99b435002e4c;110;20;Slytherin;"Practice magic;Polishing pots;Quidditch"
+ecec3e17-ec83-4a23-b8fa-db5ca22d4b33;105;;Slytherin;Quidditch
+a8c0ed65-9451-4497-8717-6e5ea965fa01;130;;Ravenclaw;Practice magic
+ed12ef38-2dee-40ab-8abd-eb57338f71f3;115;;Gryffindor;"Practice magic;Quidditch;Polishing pots"
+a3d82fd1-8ca0-4cb8-a9fe-493d5fac8c5d;130;10;Slytherin;"Polishing pots;Quidditch"
+e672f5de-ab91-447d-b2d8-5eeeb022397d;125;20;Slytherin;Quidditch
+41f2db19-328a-4077-9386-2d646daf1c1f;140;;Ravenclaw;Polishing pots
+021355b9-58d1-4e28-a635-381d2c538b49;135;10;Hufflepuff;Quidditch
+6ba91937-40c4-4980-8da4-00dee395b04b;115;20;Gryffindor;"Practice magic;Quidditch"
+724ece7f-914f-4c44-ba46-42594e6b1452;100;;Slytherin;Practice magic
+dd64ad8e-c523-437d-83ff-53df72761d5d;100;;Gryffindor;Practice magic
+66515f50-f0e6-451f-8283-ebb82da67db8;135;10;Hufflepuff;"Practice magic;Polishing pots;Quidditch"
+2408f1ff-e9b2-4f77-ba6b-9acda459c5f7;110;;Hufflepuff;Practice magic
+7810880b-2693-491a-a216-4af0e358d1cc;105;10;Gryffindor;"Practice magic;Quidditch;Polishing pots"
+6640d94e-4e1b-4658-bb0f-fad3caac11fc;145;;Gryffindor;Quidditch
+2e1ff3dd-8c4f-41eb-8788-48b2db3ba1ff;110;20;Hufflepuff;"Quidditch;Practice magic;Polishing pots"
+c2f6571a-3824-41a1-8b10-546cbd86b9a4;130;20;Ravenclaw;"Practice magic;Polishing pots;Quidditch"
+e281b954-21e4-4e1d-90c6-870c4412a111;130;10;Slytherin;Quidditch
+43d20480-7f9f-43cb-afea-e9975169cb5f;140;10;Slytherin;"Polishing pots;Practice magic;Quidditch"
+71c0ce0e-914b-4d2d-99ed-0bb514c5f31b;100;10;Gryffindor;"Practice magic;Polishing pots;Quidditch"
+cb72ece8-593d-48b3-bd86-291399b09a8e;115;10;Slytherin;"Polishing pots;Quidditch"
+763a45cd-f9e6-4b64-b5f9-d9aecd76df5d;140;;Hufflepuff;Polishing pots
+88794260-d01e-49ca-a4fe-897ab9fa6ed1;125;10;Hufflepuff;"Quidditch;Practice magic;Polishing pots"
+ecded3ac-b6f9-4f50-b096-a64fc549834a;115;;Hufflepuff;"Polishing pots;Quidditch"
+200b99ee-cd0b-4784-b001-e7284b0f7866;135;20;Slytherin;"Polishing pots;Practice magic"
+9aed9d2c-1f45-4674-98ea-b3ec4f1955be;120;20;Slytherin;"Polishing pots;Quidditch;Practice magic"
+04abd704-ace2-4c45-813e-a0d2724edcd2;125;20;Slytherin;"Quidditch;Practice magic;Polishing pots"
+97574467-6ac4-490a-8dab-d8fba8a219c6;150;20;Ravenclaw;Practice magic
+3db79f11-8149-4a26-97a7-e24b3374e3c2;100;10;Ravenclaw;"Practice magic;Quidditch;Polishing pots"
+98a4fe51-1577-4fcc-9865-bdb2aede61ac;140;10;Ravenclaw;"Polishing pots;Practice magic"
+9ea37065-8e52-485e-a541-62ac4488794f;105;10;Hufflepuff;"Quidditch;Polishing pots"
+e04ac583-1a25-474b-943f-f3dbef6db22e;140;10;Gryffindor;"Practice magic;Polishing pots;Quidditch"
+17e2e31c-aefb-4679-9d9f-7e57b5c58896;135;;Hufflepuff;"Polishing pots;Quidditch;Practice magic"
+a5b8f58a-1e5e-4e3c-9d39-25954fb948ad;125;10;Hufflepuff;"Quidditch;Practice magic"
+0729da8f-4c94-4638-828d-fdbbe98e6381;120;20;Gryffindor;"Practice magic;Polishing pots;Quidditch"
+eea94ea1-d8f5-44a4-b57e-1271b7553571;140;20;Ravenclaw;"Practice magic;Polishing pots"
+bca3cec1-02d9-4ee1-b1ec-069314e9bb19;105;20;Hufflepuff;"Practice magic;Polishing pots;Quidditch"
+792370af-3228-4eec-bffa-3c14d47dc2e3;140;;Gryffindor;Practice magic
+6348be69-89cc-470e-badc-5686e1f4bc2f;140;10;Ravenclaw;Quidditch
+24cffe72-1080-456b-87bd-8ab94c71df8d;130;10;Slytherin;"Quidditch;Polishing pots;Practice magic"
+60208b3d-d717-40b4-a188-4f6bd86d68c6;140;;Slytherin;Quidditch
+ea73054a-6d1e-4496-9201-11672457c0ca;150;;Gryffindor;"Practice magic;Polishing pots;Quidditch"
+0cf58c6b-8e66-499c-af9c-663d9cb9222a;125;20;Gryffindor;"Polishing pots;Practice magic"
+c3fb3c43-c857-4e44-b427-eea346311a38;140;;Gryffindor;"Practice magic;Polishing pots;Quidditch"
+c18570b6-7519-478f-af4b-f81a2a44ea6d;150;;Gryffindor;Practice magic
+b7a57e71-815f-484b-868e-4ce7197260db;145;10;Hufflepuff;"Practice magic;Polishing pots"
+41087cab-ec1a-4e64-b3ea-96c4bd124130;125;;Slytherin;"Quidditch;Practice magic"
+82819da9-4f64-4ad8-9838-8783d335289a;125;;Hufflepuff;"Practice magic;Polishing pots;Quidditch"
+74338615-866c-4fd7-91af-7587db7b73f3;130;20;Gryffindor;"Quidditch;Polishing pots;Practice magic"
+4f10e83b-5fb2-4fbe-913e-7610a690ceaa;105;10;Ravenclaw;Polishing pots
+f758a6bb-e037-467d-b6ac-01954692f74f;110;20;Slytherin;"Quidditch;Practice magic;Polishing pots"
+c32306b7-1ddb-44e3-897c-61cdfa2ff20d;100;10;Hufflepuff;"Practice magic;Polishing pots;Quidditch"
+56bda69a-e8c0-4073-b819-ed5fa26c628f;105;10;Hufflepuff;Quidditch
+0c91dd4c-c60b-4db5-8530-f29637b41748;110;10;Hufflepuff;"Practice magic;Quidditch"
+48d98292-7062-441f-9d87-41359a7c1f34;125;20;Slytherin;"Polishing pots;Quidditch"
+756a1ecc-471f-4916-9215-0c7b54f3b6c6;120;10;Ravenclaw;"Quidditch;Practice magic;Polishing pots"
+a2263954-f435-4618-ab54-f27352a46099;105;;Hufflepuff;"Practice magic;Polishing pots"
+9ab624bd-9cec-479f-a692-cc2432255385;140;;Gryffindor;"Polishing pots;Practice magic;Quidditch"
+3f52c0e0-ef0b-4cdf-b73a-a4f964308b9c;145;10;Ravenclaw;Polishing pots
+d97eef59-caff-4691-8d75-679d3c8a203a;140;20;Gryffindor;"Practice magic;Polishing pots"
+517ee35e-392d-437e-8d39-45df426d8087;105;;Hufflepuff;"Quidditch;Practice magic;Polishing pots"
+c26764ba-5406-4a6e-ae6b-2d4d8fe4a24f;105;10;Gryffindor;"Quidditch;Polishing pots;Practice magic"
+7767318d-f97b-42eb-9304-fec0593484a8;130;20;Gryffindor;"Quidditch;Polishing pots;Practice magic"
+4af343c4-59c0-41e6-b5cb-bed41e744cee;115;20;Ravenclaw;Polishing pots
+5c674f29-cfe4-434d-94ba-e0128a0e6d9e;125;20;Hufflepuff;"Practice magic;Quidditch;Polishing pots"
+b451467c-965d-412d-84f8-04f080453a85;105;10;Hufflepuff;"Polishing pots;Quidditch;Practice magic"
+708d67be-899a-4a6e-97ec-30a04d4233a1;130;20;Gryffindor;"Polishing pots;Practice magic"
+c0d0937a-4ead-40ea-afc7-514d5a86e1ad;140;10;Gryffindor;"Polishing pots;Practice magic;Quidditch"
+5ec65d63-2fd8-4b1b-a01b-82a8cab312b7;125;10;Ravenclaw;Polishing pots
+f7ec16b4-76d3-4b32-8ec2-c124213bf76f;145;10;Slytherin;"Practice magic;Polishing pots"
+5dd0540f-b2bf-4436-a133-e01e3308c604;135;20;Ravenclaw;"Practice magic;Quidditch"
+533993e0-4e01-4207-9c54-689db0c60f49;120;10;Hufflepuff;"Quidditch;Polishing pots;Practice magic"
+9ad8f6c5-dc1a-451e-a2e4-b0f0b3ab78d5;140;10;Gryffindor;"Polishing pots;Quidditch"
+e2d25774-4b23-4563-b2ec-3bf92b01eb80;125;20;Ravenclaw;Practice magic
+cd616f66-d217-446f-9662-4432625968a5;125;;Gryffindor;Practice magic
+dbb1360a-2966-484e-a6a0-6cb7e11205df;135;;Gryffindor;"Polishing pots;Practice magic"
+2ffa2cc3-425d-4cd8-9fc1-6e784de392ec;120;20;Hufflepuff;Quidditch
+75358ae6-6989-4905-b68f-793c143e1914;135;20;Hufflepuff;Practice magic
+aed976e3-35c0-48ec-850c-56e7d95c9526;110;10;Ravenclaw;"Quidditch;Polishing pots"
+b114b41f-3986-491b-b127-0a2ff982b4d4;135;20;Ravenclaw;"Quidditch;Polishing pots;Practice magic"
+660096af-da0e-443a-ad6c-772dece33bf5;120;20;Gryffindor;Practice magic
+4922548a-1157-4711-baa8-b832636896de;150;20;Gryffindor;"Polishing pots;Quidditch;Practice magic"
+fe08c5db-833b-4e53-b0ca-e54a69efa73b;110;;Slytherin;"Quidditch;Polishing pots"
+4d6e3564-9358-445f-b3d3-42f87fb1d40a;110;10;Hufflepuff;"Quidditch;Practice magic;Polishing pots"
+73fc8071-372a-4c40-9224-85d99b59ab75;120;20;Gryffindor;Practice magic
+df9aaad8-fc62-432e-8c26-04fb9616e6b7;110;20;Hufflepuff;"Quidditch;Polishing pots;Practice magic"
+5126f80b-bb00-4772-a83f-d987a60e9b82;140;10;Slytherin;"Quidditch;Practice magic;Polishing pots"
+9d492b6f-dbc6-4326-965a-fcb1efe7cd24;150;;Gryffindor;"Polishing pots;Practice magic"
+9370e793-e515-42dd-b9d3-f7f3808add2a;130;;Ravenclaw;Polishing pots
+377fcd81-3dc3-44d5-bed0-eba5f9cc8c2d;150;;Ravenclaw;Polishing pots
+1bd5d87b-d7ff-4e99-8f1e-6769d95c553c;115;20;Hufflepuff;"Polishing pots;Practice magic"
+2b830516-721c-4506-8f15-b95769d45f8f;115;10;Gryffindor;"Quidditch;Practice magic;Polishing pots"
+10d3877c-de9f-4707-9a30-7f58df8f3975;150;10;Hufflepuff;Practice magic
+130b5bca-0701-45b6-9267-2afa92346b34;110;10;Hufflepuff;"Practice magic;Polishing pots"
+d8489ae2-3e99-4655-8902-ec1ce9d868f4;135;20;Ravenclaw;Polishing pots
+13c5d1ce-ae51-4ae5-8472-15ef58078aad;135;20;Hufflepuff;"Quidditch;Practice magic;Polishing pots"
+accb578d-2bb1-44b0-be4b-741717f8eaca;145;20;Slytherin;"Polishing pots;Practice magic;Quidditch"
+db05e5b4-2f02-47b0-a4a9-7890954193d1;145;;Gryffindor;Polishing pots
+d92039b1-0a60-4adf-89b7-aeaf4fc96a3d;125;20;Gryffindor;Quidditch
+c5d140ce-633c-452d-84a3-0bdcf41ec4d1;145;10;Hufflepuff;"Practice magic;Polishing pots"
+e208d376-3889-407c-b557-89ad4ca7c67a;145;20;Hufflepuff;"Quidditch;Practice magic"
+328ef857-eae9-4d74-9ddf-7af3aeb318a8;130;10;Slytherin;"Practice magic;Quidditch;Polishing pots"
+f40d4916-a781-48b5-bb3b-bf10370deefa;105;;Slytherin;"Quidditch;Polishing pots;Practice magic"
+ebf1a833-3d9f-435e-9058-0930e7f5ad7f;110;;Slytherin;Quidditch
+60a31814-2a92-4612-9ee9-c67a2ea9667a;135;20;Gryffindor;Quidditch
+27f4d373-1fcf-4bfb-abbe-382e4464aad4;105;;Ravenclaw;"Quidditch;Practice magic"
+84b5dcad-40f9-4d54-92c6-c50e8d03c0ac;130;;Ravenclaw;Practice magic
+f01928ac-d715-45de-ac1e-3cb2a1a375c5;120;20;Ravenclaw;"Polishing pots;Quidditch;Practice magic"
+db42c990-1872-46e6-9cdf-07b585838fb5;130;20;Hufflepuff;Practice magic
+444a6710-35ba-4bc4-8dbe-792d4415a56e;145;;Hufflepuff;"Practice magic;Quidditch;Polishing pots"
+e0bdc892-d549-4a93-ab83-655a40ad7e37;145;20;Slytherin;"Practice magic;Quidditch"
+aecfd10f-e3b7-4c18-9655-a4e06b84e625;120;20;Gryffindor;"Practice magic;Quidditch"
+f9b8bf14-3c57-4858-9db8-f60d19bcd4cb;125;;Gryffindor;"Quidditch;Practice magic;Polishing pots"
+6851d8ed-9f42-476f-9105-b180a011d4a8;100;10;Hufflepuff;"Practice magic;Polishing pots;Quidditch"
+23dcf2f6-fc4b-4252-9ce5-a9cc9c692f7e;100;20;Slytherin;Quidditch
+71f4aaa1-c71b-48fd-9b89-c66805d350ca;125;10;Gryffindor;"Practice magic;Quidditch"
+6be7d17f-b5c4-40f1-a206-f68cc3f60b3e;125;;Hufflepuff;Practice magic
+430af907-c7bc-4e4a-8243-25dae74380fb;145;10;Gryffindor;"Quidditch;Practice magic;Polishing pots"
+731ca878-5d32-4cba-b9a4-2a7c5949013d;125;10;Slytherin;"Practice magic;Quidditch"
+a59c4518-caf1-47ca-90b4-d7b41a9b10b7;140;;Slytherin;"Quidditch;Polishing pots"
+9f79de2e-e756-4e35-a680-54e09214ff44;100;20;Ravenclaw;"Practice magic;Polishing pots"
+f9bb889c-fd3c-42b3-8cda-00749faf5c67;135;20;Slytherin;Quidditch
+fabdbfb5-6be3-4dc9-8606-939ed67e5bbe;125;20;Hufflepuff;"Quidditch;Polishing pots;Practice magic"
+b4c5dcfd-9f3e-49e3-baf4-4cf38ffa7b45;100;10;Hufflepuff;Practice magic
+c35e12ea-8b73-43fd-bf39-f5adc1089b17;145;;Ravenclaw;"Quidditch;Polishing pots;Practice magic"
+cd137438-3044-4d80-b42c-f3a68204b52a;110;10;Gryffindor;Quidditch
+62593aa0-e1ea-41c2-83a9-f393984d43ee;135;10;Gryffindor;"Quidditch;Polishing pots;Practice magic"
+ca69761c-445d-44a7-808f-bb1654c7e15e;150;;Slytherin;"Quidditch;Polishing pots;Practice magic"
+1e68db2e-6b48-4ede-9ee3-d8585cbff4df;150;20;Gryffindor;"Quidditch;Practice magic;Polishing pots"
+026be744-aed7-4cc7-b4cb-a9d8fa052922;120;20;Slytherin;Polishing pots
+6a853c5a-d950-4072-8f0e-e0726661b421;125;;Gryffindor;"Practice magic;Quidditch;Polishing pots"
+44c159b0-8a89-4d02-b4ed-ed7b0c295125;135;10;Gryffindor;Polishing pots
+7a05a75e-3aa0-4eb4-9067-31b1daae02f0;145;20;Slytherin;Polishing pots
+06fec34e-91c0-4714-97e2-391e0c96f5a2;135;20;Slytherin;"Practice magic;Quidditch;Polishing pots"
+09fa659f-c3d4-4530-933c-ea8f63dc56db;120;10;Ravenclaw;Practice magic
+789cdb9c-80c8-4251-8283-118056267498;130;;Gryffindor;"Quidditch;Practice magic;Polishing pots"
+891f0db4-d336-4228-9f9a-d48519fbfbdf;110;10;Slytherin;"Polishing pots;Quidditch;Practice magic"
+c286db62-668c-48c9-a313-0aa9bc9b7126;145;20;Hufflepuff;"Practice magic;Quidditch"
+4b8fb394-594e-4181-b143-9d6bf11e7428;100;10;Hufflepuff;Quidditch
+cd500853-cdcd-4b2f-8aec-929d96369660;120;20;Ravenclaw;"Practice magic;Quidditch;Polishing pots"
+23831f4d-67cc-4d5b-94f8-4840dc8d0201;120;;Gryffindor;"Quidditch;Polishing pots;Practice magic"
+e46b4e13-4cb1-4ac5-8198-5e04031a3348;115;20;Slytherin;"Quidditch;Practice magic;Polishing pots"
+71e04434-557a-406f-8c48-41c545ead807;150;10;Gryffindor;Polishing pots
+3cc2eedb-309e-4c63-b3b0-e0395e135ef9;140;;Hufflepuff;Practice magic
+cf4fc449-f4f8-4192-8786-675e8868ce18;105;;Gryffindor;"Practice magic;Quidditch"
+140b662c-1f46-4057-ac67-30926dfc812e;145;20;Slytherin;Quidditch
+6a5f5160-e03c-4cb3-bff8-32dfe39e77dc;105;20;Ravenclaw;"Polishing pots;Quidditch"
+d0f7e4fe-4497-467d-bb19-9f103084b5a5;105;;Gryffindor;Practice magic
+3ca8b854-f3c6-4c56-ad41-714258a844c8;125;20;Ravenclaw;Practice magic
+d15dfe77-cecb-4103-9a65-20e608ea4e81;145;20;Ravenclaw;"Quidditch;Practice magic;Polishing pots"
+928b54fd-de1f-425a-a848-c879d95fdf18;140;;Ravenclaw;Polishing pots
+b9d3c055-f999-48e9-8a3e-ef662e98c0f4;130;20;Hufflepuff;"Quidditch;Practice magic;Polishing pots"
+ac5e4a7c-e11e-47d9-80d5-0359c6ea2728;110;20;Slytherin;"Polishing pots;Practice magic"
+0c98d062-633e-46ad-8902-77eba4ce1e6a;120;;Ravenclaw;"Polishing pots;Practice magic"
+1b1484f6-31fb-4b6c-88a8-e2f50f8d41a5;100;10;Ravenclaw;"Quidditch;Polishing pots"
+d5e48fc0-4b7b-4e69-b7d3-aa3e14b4e972;140;10;Hufflepuff;"Polishing pots;Quidditch"
+633da702-cfae-4527-8fca-d5e8841d2d0c;125;;Ravenclaw;"Polishing pots;Quidditch"
+e2abdac1-e520-4c5d-a901-159fa118ea3e;125;;Ravenclaw;"Quidditch;Polishing pots"
+4e799d5c-648b-410c-94af-0c6448db5dcf;140;;Hufflepuff;Practice magic
+5bb71f9a-4069-47d2-8bd0-227b03306773;110;10;Slytherin;"Practice magic;Quidditch"
+0d65fa43-f817-446f-aeaa-c7f465b31496;135;10;Slytherin;"Quidditch;Practice magic;Polishing pots"
+60de8e12-e6f8-4106-a189-69de52421155;105;;Ravenclaw;Quidditch
+ca421bbe-043d-46e5-ad80-3e68f733510b;130;10;Hufflepuff;"Polishing pots;Practice magic;Quidditch"
+06128ba9-9a2c-45bb-b054-6d615df28794;145;20;Hufflepuff;Quidditch
+bd4522df-1e89-438f-91f9-8d5ab7c25cf5;125;;Gryffindor;"Practice magic;Quidditch"
+0a74824a-2f2f-4a78-8bd9-45dbf1fa56a2;140;20;Gryffindor;Polishing pots
+217574c6-49b2-4a13-b531-9eeff8647dce;145;10;Ravenclaw;"Polishing pots;Quidditch;Practice magic"
+6598aaad-2633-4aee-aa93-4c9cd0cca65e;130;;Ravenclaw;Quidditch
+6c010ec2-468e-4b73-9c28-31f2b7bc86ac;120;10;Gryffindor;"Practice magic;Polishing pots"
+7fe02ae7-a244-4745-9608-d00c3161c275;130;;Gryffindor;Quidditch
+e18b4229-07d4-40ff-8a82-2a28f84a387d;130;20;Ravenclaw;"Polishing pots;Practice magic"
+efab715b-478f-4b12-b815-00c456c7e7eb;130;20;Slytherin;"Practice magic;Polishing pots;Quidditch"
+f309403c-0d4a-4b92-a44f-c9c792fe1008;145;10;Hufflepuff;Practice magic
+79752721-e9ed-4321-9d30-d9938540f80f;105;;Hufflepuff;"Quidditch;Practice magic;Polishing pots"
+70ac8933-4a57-49a5-8ec8-1647aa4ec590;115;10;Hufflepuff;"Quidditch;Practice magic;Polishing pots"
+19b86b53-3328-48a6-bc6c-9584b8dce45c;115;10;Hufflepuff;"Practice magic;Quidditch;Polishing pots"
+eb7cbe3e-363a-4b38-8def-ce6b4aed0b4e;140;10;Hufflepuff;Practice magic
+3b5f684d-6b6b-4670-b4e9-d9b2044bc97d;110;20;Hufflepuff;"Polishing pots;Practice magic;Quidditch"
+c142ed91-f487-4063-924a-2e7d86bf1ba0;150;;Gryffindor;Practice magic
+10058091-1a7f-43de-9f15-40f3367824d1;140;10;Gryffindor;"Practice magic;Quidditch;Polishing pots"
+d13d2e85-78a7-45fc-a76f-e35ce2cbd7f6;115;20;Ravenclaw;Quidditch
+b4690b81-cb9a-4e17-9619-6b47a4a5f9bb;135;10;Ravenclaw;"Polishing pots;Practice magic;Quidditch"
+3c009c95-67ae-4976-848f-a77f56f94faa;140;;Slytherin;"Quidditch;Polishing pots"
+4a780334-1eb8-4653-8120-cdd98ada545c;110;;Slytherin;Practice magic
+c4b0f0f3-3d67-4054-9948-25e6645e4da1;125;10;Hufflepuff;"Quidditch;Polishing pots"
+5b031b12-5b41-49f2-8fae-b8d54d4be356;120;20;Slytherin;"Practice magic;Polishing pots;Quidditch"
+b5d7fb33-4457-4a0d-9a0b-540a48f187bd;150;10;Ravenclaw;"Practice magic;Polishing pots;Quidditch"
+4c930ee3-fdd3-4ce0-a11c-bd5bc066a255;120;;Slytherin;Quidditch
+ace15116-9cae-4080-9f8d-fe0f3e650394;130;10;Slytherin;Practice magic
+42c3d4a0-9fc1-487c-8d66-db0803563df5;140;10;Ravenclaw;"Quidditch;Polishing pots;Practice magic"
+8f606ebf-6145-43dc-b72e-2592b0913762;145;;Gryffindor;"Practice magic;Polishing pots"
+5c44b08b-d692-4c07-9a65-34826121450c;110;20;Hufflepuff;"Quidditch;Practice magic"
+cc421ed5-7d9d-485f-a5e4-3b2ee5e7f8fe;145;10;Ravenclaw;Polishing pots
+426ff421-d79e-42a6-88b6-19d5cba1380b;110;;Slytherin;"Polishing pots;Practice magic"
+1bd607b0-9bf4-4b08-bd1a-a2f2ace36fec;140;20;Ravenclaw;Practice magic
+d5ea53ed-b20c-41b1-a862-a05f636f694d;110;;Slytherin;Quidditch
+6bfe5009-75ad-44bf-a880-fe5382a627c3;110;20;Gryffindor;"Quidditch;Polishing pots;Practice magic"
+9b421a98-0ad2-4f49-a79e-25c729145b76;145;;Hufflepuff;Quidditch
+d08c3a2f-859c-492f-855e-d1beaa912129;105;;Gryffindor;"Practice magic;Polishing pots"
+570b5129-e97a-4279-ad70-c05b63f2392f;150;20;Hufflepuff;"Practice magic;Quidditch"
+de319b0e-d913-4ae5-a316-81d0c76a805b;110;10;Gryffindor;"Polishing pots;Practice magic;Quidditch"
+98061360-8483-4b21-add5-a269f143dd71;135;10;Ravenclaw;"Quidditch;Polishing pots"
+f145fb48-3431-4db9-8830-62709f53eece;110;20;Slytherin;"Practice magic;Quidditch;Polishing pots"
+9c9f5c30-8a07-4ae9-8b7f-5b51e3743af4;130;20;Gryffindor;"Polishing pots;Practice magic;Quidditch"
+a8f1712e-5223-4f2e-83ed-8459cb8823b3;125;20;Gryffindor;"Polishing pots;Quidditch;Practice magic"
+57292f0a-6f3c-451a-aa07-4ade8a38b0e7;130;;Hufflepuff;"Polishing pots;Quidditch;Practice magic"
+125daa35-30b8-4abb-9a6a-d13398b556eb;135;10;Hufflepuff;Polishing pots
+2429c4d2-460d-4379-8980-0e463b969245;135;20;Hufflepuff;"Quidditch;Practice magic"
+3567f4c4-7ca5-40a9-af81-b6086ac5167a;130;;Slytherin;"Polishing pots;Quidditch"
+11439e82-efa7-4644-b8fd-9885c3fd6504;115;10;Hufflepuff;"Polishing pots;Quidditch"
+f143e713-ace5-4754-ac34-db614e2faed2;120;;Gryffindor;"Quidditch;Polishing pots"
+b497a524-bfd4-49cc-b9c9-35eca1e166ea;105;;Hufflepuff;"Practice magic;Polishing pots"
+260360ef-9bee-40dd-8173-22f8ef7967c4;145;10;Gryffindor;"Polishing pots;Quidditch;Practice magic"
+7e3870ee-9dd7-48db-8d10-9b163e51a585;150;;Slytherin;"Practice magic;Polishing pots"
+14cdd32b-7abd-42ba-a108-6e71ac4faad4;105;20;Slytherin;"Polishing pots;Quidditch;Practice magic"
+62cb6287-47a2-470d-b76b-a83cbb85a6d0;140;;Gryffindor;Polishing pots
+de0ced72-ed6a-4605-8724-a287259306de;110;;Slytherin;"Practice magic;Polishing pots"
+ae762be6-5e0a-43bf-be45-6e380ebfbfbe;145;10;Hufflepuff;Practice magic
+1410b1c3-ae95-4915-983b-7b9951a231c7;135;;Ravenclaw;"Quidditch;Practice magic;Polishing pots"
+06bd59c6-4be2-46be-b3b0-d1daa570f153;140;20;Slytherin;"Quidditch;Polishing pots"
+da42cf5c-c425-4bb4-bf0f-97650019a8de;130;10;Gryffindor;"Quidditch;Polishing pots;Practice magic"
+cd1f06d5-9c87-4a65-a6ca-126c37e375bd;125;10;Hufflepuff;"Practice magic;Quidditch"
+b84718c8-8d3b-460e-895f-acf9475809f6;135;;Gryffindor;Polishing pots
+c412e23f-e319-4cde-810e-c2bf085688aa;130;20;Ravenclaw;Quidditch
+6e1438af-056c-45c2-8d13-dfa0da1f1dea;150;20;Gryffindor;Quidditch
+234b4f31-f503-41e2-8798-354ca7a22f5f;150;20;Slytherin;Quidditch
+cd3f840a-8eb7-4cb5-9efc-5b702828bc53;105;10;Ravenclaw;"Practice magic;Polishing pots;Quidditch"
+0cc3970c-a423-4ad1-ae1a-3a836d5d129b;135;;Slytherin;"Practice magic;Polishing pots;Quidditch"
+51cbf428-0aa3-48b5-96e9-9a55497827f1;110;20;Hufflepuff;"Polishing pots;Quidditch;Practice magic"
+1bf309f8-f965-4a8b-b09f-047843c5d836;125;10;Ravenclaw;"Quidditch;Practice magic"
+839d6f17-05b7-4dee-acd1-aaaeae282028;130;10;Ravenclaw;"Polishing pots;Practice magic"
+794db4ea-0cc7-4361-990f-63b5a6bd36e8;115;10;Slytherin;"Quidditch;Polishing pots;Practice magic"
+1f79228b-ece7-4288-ae2b-cc238d7a1993;110;20;Hufflepuff;"Practice magic;Quidditch"
+cd85225a-ff58-48d3-a6ce-a7b86190ff7d;115;;Ravenclaw;"Polishing pots;Quidditch"
+cbb7625d-0b16-44d3-b2ee-73c556cdb114;120;20;Hufflepuff;Quidditch
+8fb75450-ed2d-4b2b-93bc-8f9ffad7e1f2;120;20;Ravenclaw;"Quidditch;Practice magic;Polishing pots"
+03ef40d1-09f0-4f65-ac60-cb09c5118273;150;;Ravenclaw;"Polishing pots;Practice magic"
+1c4f2ce1-21e8-4ae8-af02-49c354d375c1;135;10;Gryffindor;"Quidditch;Polishing pots"
+d32efe78-0ca8-4051-86d5-072cc806df05;130;;Slytherin;Practice magic
+c57dc1d5-3536-49df-815e-96383b8a7f00;150;20;Slytherin;"Practice magic;Quidditch"
+854b036f-954b-4099-bed4-c8cea14e2f38;125;10;Gryffindor;Practice magic
+1aed2e64-0162-4cc8-b389-6f5c39e30e08;135;;Gryffindor;"Practice magic;Polishing pots"
+9bd1697b-7780-4f04-9fae-3a3650c6bf74;145;20;Hufflepuff;"Polishing pots;Practice magic"
+58417df1-d2d0-4c4d-a91a-5aa4a22a4c36;125;10;Hufflepuff;"Practice magic;Quidditch;Polishing pots"
+6f5307c0-5e38-49ce-a395-b8a13eb5829d;130;10;Hufflepuff;Practice magic
+cef0dee6-7bc0-4e69-b843-b5343e0df134;110;20;Ravenclaw;"Practice magic;Polishing pots;Quidditch"
+b52cefae-9872-4eb2-9232-2607f1e01d62;120;20;Hufflepuff;"Quidditch;Polishing pots;Practice magic"
+146a8122-4e3a-47a3-ae0f-29641c9454b6;115;20;Ravenclaw;Practice magic
+f5807c0a-5b9b-47c2-a70b-a7cd0b916947;115;;Gryffindor;Practice magic
+d640c6a9-4403-4a69-bb69-59c444c47141;125;20;Gryffindor;Polishing pots
+f4fbb0b4-95f5-46e1-80af-0d0ab8733fad;130;;Hufflepuff;"Quidditch;Practice magic"
+68d27af7-a4b4-4a50-b7d6-e3b2abcde985;125;;Gryffindor;"Quidditch;Practice magic"
+5d62145a-c2de-48ad-b5c2-28a97f902ae8;150;20;Gryffindor;"Practice magic;Polishing pots;Quidditch"
+f933680c-c772-48eb-9417-f2b9de8ee843;145;;Ravenclaw;"Polishing pots;Practice magic"
+1e6b7495-3817-48c4-bd40-125196a666a6;140;10;Slytherin;"Practice magic;Quidditch;Polishing pots"
+844c6a12-9632-4f39-a9b4-e714c9813c26;130;;Slytherin;"Quidditch;Practice magic"
+69a27ffb-964e-497e-b6e8-0ce43475ff5c;100;10;Hufflepuff;"Practice magic;Quidditch;Polishing pots"
+e515aa97-9ef8-43fa-8d76-07cb7ef49985;105;10;Hufflepuff;"Quidditch;Practice magic"
+b435e656-6ffe-4d3f-93fb-ff373b573916;115;10;Hufflepuff;"Quidditch;Practice magic"
+355ce6ef-e0b2-45e7-b846-b5a906d9bc3f;150;20;Ravenclaw;Polishing pots
+3251027d-e282-4a32-8bde-8050c27fa8fc;130;;Slytherin;Polishing pots
+6122712a-2d7d-4cc2-8a89-d281a9eca815;145;;Ravenclaw;Practice magic
+4f094b56-933a-4afd-91f1-561f6929c7c4;100;;Slytherin;"Quidditch;Practice magic;Polishing pots"
+5c95c8cb-3f1b-4c67-8976-2fe7de1bed8c;135;;Ravenclaw;"Quidditch;Practice magic"
+8d202ec0-3316-4db5-936c-8beed2bc7ee0;140;20;Hufflepuff;"Quidditch;Polishing pots;Practice magic"
+4f717e5d-6869-42ba-a096-d9c1f31fbb48;110;10;Ravenclaw;"Polishing pots;Practice magic;Quidditch"
+7e22596b-c2a7-4da7-a43a-375d35602dd6;150;10;Gryffindor;"Quidditch;Practice magic"
+f81d824a-5b2b-49d9-ab33-a57022ce7d2f;135;10;Gryffindor;Practice magic
+cc90b559-474a-4c33-b793-289d8c6af4c9;145;10;Hufflepuff;Quidditch
+72488bf2-096e-4479-b3a8-2f5e9aa90848;115;;Gryffindor;"Quidditch;Polishing pots;Practice magic"
+57591cfa-57e6-4b26-b0da-d577e50c0cc0;100;20;Hufflepuff;"Quidditch;Practice magic;Polishing pots"
+28469c28-046f-48c9-a4e7-90eb0d90c3a3;120;20;Gryffindor;"Practice magic;Polishing pots"
+42ef2e6a-3961-4a5f-8387-db555a680ed8;130;;Gryffindor;Polishing pots
+ab03c2af-eadf-4a1c-916f-c0ee416b6372;145;10;Hufflepuff;"Polishing pots;Quidditch;Practice magic"
+83cd1ef5-6f1e-4aae-a308-3280d6cffacd;120;;Gryffindor;"Quidditch;Practice magic;Polishing pots"
+d66e0cfa-75ba-4bdb-87cd-4dca749927b1;115;;Gryffindor;"Practice magic;Quidditch;Polishing pots"
+6c61cc79-4d94-4f9b-8f82-15f6eb634769;130;10;Ravenclaw;"Practice magic;Polishing pots;Quidditch"
+7f8de001-d7ad-4e9b-becc-e4a3074882e0;140;10;Slytherin;"Quidditch;Practice magic"
+ddce217e-79ff-4cff-82be-50eb94219ebd;135;;Ravenclaw;"Practice magic;Polishing pots;Quidditch"
+a3bb497b-335d-40c6-b9ee-26dfd8de3bbd;150;10;Slytherin;"Quidditch;Practice magic"
+e5151e65-72f6-4d4f-8ba3-086528a8fc19;145;20;Slytherin;"Practice magic;Quidditch;Polishing pots"
+76049f8f-bc45-4f90-8796-dda0e16eb6d5;145;;Hufflepuff;"Quidditch;Practice magic"
+b967e459-53ba-4ac5-bc85-63b4ba8f1e62;120;;Gryffindor;Polishing pots
+92e6c18d-5ecd-49c2-96ae-47f55ffe13cf;100;20;Slytherin;"Practice magic;Polishing pots"
+7bbd9434-0d10-4ce0-a01e-271a9a4d6181;125;20;Hufflepuff;Practice magic
+a7f888b2-a806-40c9-bec1-6be6f3e8a47c;110;20;Gryffindor;"Quidditch;Polishing pots"
+d0f9646b-541a-44ac-accb-5b37f32ec6ce;145;10;Hufflepuff;Quidditch
+4d8bc86b-a60f-4d97-b2c8-2e0826376de4;150;;Slytherin;Quidditch
+0be62cd6-9c74-4b0f-a4e8-a92ec0dea668;100;20;Ravenclaw;"Practice magic;Polishing pots;Quidditch"
+055586a6-4051-4759-8536-ab7c749b7907;100;;Slytherin;Polishing pots
+faf78d82-72ec-40dc-9204-2cb2b61e234b;140;20;Slytherin;"Practice magic;Quidditch"
+c9f4a2c3-9a3a-4b49-bb2e-6fd1315c1492;125;10;Slytherin;"Practice magic;Quidditch;Polishing pots"
+edd28493-b56b-4aea-8354-018a5210c84e;145;;Gryffindor;"Polishing pots;Quidditch;Practice magic"
+5ad31d37-1b1a-49b2-aa27-552a9f8d7fd3;115;10;Ravenclaw;"Quidditch;Polishing pots;Practice magic"
+f6a38b0a-dcdf-4214-80e7-30d8424f6e8f;105;10;Slytherin;Quidditch
+0cd5b99c-3ce3-45a9-a47f-88ae3d09591c;140;10;Gryffindor;Polishing pots
+075c7868-4155-4ae2-afb6-64b4312544d4;115;;Gryffindor;Polishing pots
+921c4b26-d3d0-4d87-b2f6-6f44c59bef9f;140;;Hufflepuff;Practice magic
+a4f87a97-dd10-487b-8a26-0c558f6346ed;140;10;Ravenclaw;"Practice magic;Polishing pots"
+ee1ec34b-3f85-44c2-bc29-b93c27db58cb;150;;Slytherin;"Practice magic;Quidditch;Polishing pots"
+965f81fa-71eb-4190-8954-ca27ab4cc349;140;;Slytherin;"Quidditch;Polishing pots;Practice magic"
+bc214366-64e6-45f1-94f3-1607cc91df78;130;20;Gryffindor;Practice magic
+cbf0d6b9-df42-48c8-b433-e752ac4c02ae;115;10;Ravenclaw;Quidditch
+351b0cbb-fdf2-4b06-9ee4-400ba4aa6682;145;10;Ravenclaw;"Practice magic;Polishing pots;Quidditch"
+0bbd9f78-d605-44e0-a674-62da46df24f2;110;;Ravenclaw;"Polishing pots;Practice magic;Quidditch"
+38007a76-7915-466d-9cc2-1e0d06c56045;115;;Gryffindor;"Polishing pots;Practice magic"
+c9b3ed51-6013-4639-bfe9-76d520515606;110;;Gryffindor;Polishing pots
+0cd8b2f2-2efb-405d-8a08-de66e3c16423;130;20;Gryffindor;"Quidditch;Practice magic;Polishing pots"
+8ec707f7-07cd-4aae-8594-d559cd28d983;135;20;Slytherin;"Practice magic;Polishing pots"
+9dc0c0d1-27de-4e1d-b8b9-95b32bd1df09;110;10;Ravenclaw;"Quidditch;Polishing pots;Practice magic"
+eed5c3b7-cbb4-4ad5-8a26-4c6675dc0b99;140;20;Slytherin;"Polishing pots;Quidditch;Practice magic"
+1d49d979-c7f2-441d-bc35-3e8808eaf7cc;115;20;Hufflepuff;Practice magic
+7054f4c7-925d-4115-8056-26a851f196c5;115;20;Hufflepuff;Polishing pots
+5cb8de52-4722-4863-865b-966923f1ee46;100;;Ravenclaw;Polishing pots
+9e647cfb-2294-47b2-a5b8-4fce07c308c9;100;10;Ravenclaw;"Practice magic;Polishing pots"
+51961a1a-d6be-41a2-bd8b-1d734ef126a7;110;;Hufflepuff;Practice magic
+db596734-53ca-46f9-a7c5-f952631c1c0a;110;;Slytherin;Practice magic
+8712b1b8-fe9c-4902-b6f2-3b83993ff975;135;20;Slytherin;"Quidditch;Practice magic;Polishing pots"
+79746426-27f8-4910-8d34-1035418951fe;150;;Gryffindor;"Polishing pots;Practice magic"
+937cbac1-956a-48d4-943c-393415b13f10;105;20;Slytherin;"Practice magic;Polishing pots"
+098ee0ae-4853-4615-9728-3c7149645ac0;130;;Gryffindor;"Quidditch;Polishing pots;Practice magic"
+52e80d4b-5f18-4862-9f09-badd048d12cc;105;10;Ravenclaw;"Practice magic;Quidditch"
+97017aa5-cf74-471a-84aa-4d744e21c27b;105;20;Hufflepuff;"Polishing pots;Practice magic;Quidditch"
+3c6c4b2c-faea-4f9c-9d5e-d4a7001941da;130;10;Ravenclaw;Practice magic
+b8369f91-11e1-4130-985c-c75069e84f21;115;10;Slytherin;"Quidditch;Practice magic"
+bd11100c-e547-4e1c-a228-93f33f1a3de3;135;20;Slytherin;"Practice magic;Polishing pots"
+0f730a40-fb90-4e6a-af6b-8a507670d841;145;10;Hufflepuff;Polishing pots
+e599dcb9-15c2-42a9-b7a1-2f66e2210cd1;120;;Gryffindor;"Quidditch;Practice magic"
+02b6a0af-a8af-4534-b343-d380ae3dfab1;100;20;Gryffindor;"Quidditch;Practice magic"
+5c78b175-8383-4367-9dc1-b155d9184c4c;130;20;Gryffindor;"Quidditch;Practice magic"
+5aff8210-ce81-47fa-a17d-8db3ca919df0;115;20;Hufflepuff;"Practice magic;Polishing pots;Quidditch"
+6d1f3501-b3b5-47a3-be33-ac087b40dd97;130;10;Gryffindor;Quidditch
+526976aa-49f0-4573-82e2-01b5a96e7d93;115;;Gryffindor;Polishing pots
+db423008-1357-4b90-b8ca-e3fa1921b59f;140;20;Hufflepuff;Polishing pots
+eaf6d4c6-2088-4471-a311-4e6ec9b897b2;120;10;Gryffindor;"Quidditch;Practice magic"
+62fd7fe8-a8ea-4212-af99-67aba3348489;135;20;Gryffindor;Quidditch
+254ab23d-9735-4846-b2b4-9e5b4a74481f;145;20;Gryffindor;"Quidditch;Polishing pots"
+58a58341-6bde-4ec8-8c67-e2705795b4bb;130;10;Ravenclaw;Practice magic
+a186e150-5f26-41fd-91d2-781de9408fc5;140;;Ravenclaw;Practice magic
+097154a4-c11c-4f3e-9c1b-4d85e3659574;135;;Ravenclaw;Practice magic
+5fe49a16-e149-42d5-854d-89c157b6b961;100;10;Gryffindor;"Quidditch;Practice magic"
+a262e94d-4bec-46e4-b4a6-320f489ff37e;130;10;Hufflepuff;"Polishing pots;Quidditch"
+2064b55a-7896-4cbe-83c4-5ff19db92fb3;150;10;Slytherin;Polishing pots
+3a96ee6d-3cdb-47c0-a1ab-b3f1efe04140;115;20;Slytherin;Polishing pots
+bdee215b-2ca0-4f5f-9319-a6695ec0caf4;115;20;Gryffindor;"Quidditch;Polishing pots;Practice magic"
+46740328-ae8f-43c8-867d-e74d8bd0e14f;130;;Slytherin;Quidditch
+69ee0678-8036-4097-b1a0-360d733f9f6f;105;;Hufflepuff;Quidditch
+53e2ecf0-dc0b-4a77-ba47-f51d4ec10c02;140;10;Gryffindor;Polishing pots
+5db8b401-57e8-45e9-a99d-1bd7466441e0;120;;Gryffindor;Quidditch
+0e02bc07-aad7-40b8-b799-f01e7f8019f8;110;10;Gryffindor;"Practice magic;Polishing pots;Quidditch"
+762a9b88-6b46-44e6-bac6-ea64628d16e4;145;20;Ravenclaw;"Quidditch;Practice magic;Polishing pots"
+a0912a22-1cf7-44e1-9cde-081e476b4457;115;10;Gryffindor;"Practice magic;Quidditch"
+3794f5f5-1e0e-4852-b464-0424621d6b9c;100;20;Gryffindor;Practice magic
+e826c586-2685-4f38-b1e2-15156d4fd189;100;;Gryffindor;"Practice magic;Quidditch;Polishing pots"
+d0661888-faa2-41dc-b307-504c53217340;135;10;Gryffindor;Quidditch
+e9661bb3-e0da-4af6-b1a3-7330122aa189;110;;Gryffindor;"Polishing pots;Quidditch"
+d4c2db62-64c9-479c-9add-4afd9f432230;135;20;Gryffindor;Quidditch
+200ba0c1-6e1d-4912-982b-3e35a714c79b;105;;Ravenclaw;"Polishing pots;Practice magic;Quidditch"
+60517f34-25af-4299-ad86-b4fc79ecdb8d;105;20;Ravenclaw;Practice magic
+48f2a0b2-f99e-4f43-bd8c-e78b37a93f1f;125;20;Ravenclaw;"Polishing pots;Practice magic;Quidditch"
+dd9a4032-cd85-42e9-8dc0-33cc045c9001;115;10;Ravenclaw;"Quidditch;Polishing pots"
+39d73237-cd51-4485-9404-a81ec74192ea;130;10;Slytherin;"Polishing pots;Quidditch"
+e17bb0b4-b2c1-4a71-9a1b-0150fd0e7790;115;;Hufflepuff;"Quidditch;Practice magic;Polishing pots"
+acb0fb96-3bbf-446d-a97d-a75472ec787b;150;20;Hufflepuff;Quidditch
+d364f2b2-7e36-496f-a8a1-7fe2a0fda867;140;;Gryffindor;Quidditch
+84519d10-5749-4717-99ea-cc5fd911fa40;150;;Ravenclaw;"Polishing pots;Quidditch"
+06860f48-4264-416f-a01d-a2386273a71b;115;10;Hufflepuff;Quidditch
+9a10712d-db73-4d78-90c7-927d7724493f;120;;Slytherin;"Quidditch;Practice magic"
+ab61ffcc-3462-4b65-b8af-44cbb0d4ad8c;150;10;Hufflepuff;Practice magic
+344eac09-5227-4056-bfe2-76e93a3dfb55;150;20;Hufflepuff;"Polishing pots;Quidditch;Practice magic"
+c785031d-310c-44c2-9adc-1ad2f95f2908;105;20;Hufflepuff;"Quidditch;Polishing pots;Practice magic"
+ae6cb730-185f-490a-a7ee-597c905305c0;140;;Ravenclaw;"Practice magic;Quidditch"
+ea892915-9b9d-4f81-a4f1-0697d18b1082;145;10;Gryffindor;"Quidditch;Polishing pots;Practice magic"
+8a229733-ea98-443d-a860-bbc056250312;130;20;Gryffindor;Practice magic
+01ff41b7-ff15-4cf9-83e8-9c109f643e5c;115;20;Ravenclaw;Quidditch
+c0d39e52-94ca-474b-b896-d92df4fa4b90;125;20;Ravenclaw;"Practice magic;Quidditch"
+29d89958-9a4f-4dc2-82a5-2255ffd7b921;120;20;Slytherin;"Polishing pots;Quidditch;Practice magic"
+8c1d066c-ce7b-4933-a8e9-932cbe7d362a;110;;Hufflepuff;Quidditch
+bc61c1f4-8736-4f4e-9b6c-ebd2b82e7a40;110;10;Gryffindor;Quidditch
+14c83bdc-2035-4e17-979f-adfcc0285e0a;105;20;Slytherin;"Quidditch;Polishing pots;Practice magic"
+edbe5d62-f368-4ad4-b5d0-12ea353b3aaa;105;;Hufflepuff;"Practice magic;Quidditch;Polishing pots"
+48e1b300-f3b5-4ecf-aff7-e6f328f14327;100;;Hufflepuff;"Polishing pots;Quidditch;Practice magic"
+74ffa43b-1619-42fe-8fce-4ce3baa48e53;120;20;Gryffindor;"Quidditch;Polishing pots;Practice magic"
+29029e3a-cf61-42ee-b797-d4d46f41abd6;130;10;Hufflepuff;"Polishing pots;Quidditch"
+ec0ce80e-d1b2-442e-972b-622f855dadd5;115;10;Slytherin;"Practice magic;Polishing pots"
+88803f9a-3153-45d8-824f-b679fd0521b7;145;10;Hufflepuff;"Practice magic;Quidditch;Polishing pots"
+d9665b14-cc27-4a48-83af-92b6fb767b3d;130;10;Gryffindor;Polishing pots
+19558a29-8c32-4487-913b-fe04bb95e9a0;135;20;Gryffindor;"Quidditch;Practice magic"
+787e2af9-0b5e-4962-865f-37a392313ea7;145;20;Gryffindor;"Practice magic;Quidditch;Polishing pots"
+b22da75a-faa2-412a-b2ce-ee5c04ff4f4e;150;20;Gryffindor;Polishing pots
+b9d82704-f099-44a9-a9a8-5a6499443b1c;120;20;Hufflepuff;"Quidditch;Practice magic;Polishing pots"
+6ab0b892-55cb-4bbd-b7ab-282e3e2320aa;150;10;Gryffindor;Practice magic
+3afdc3d5-80ab-42ec-a7e8-16b756e01382;115;;Slytherin;Practice magic
+da64e8a5-56ba-40a8-852f-0ad9add59e14;140;10;Slytherin;"Polishing pots;Quidditch"
+c8ebae82-a664-43ae-9d8b-a647e4d3d79b;125;;Ravenclaw;"Quidditch;Practice magic"
+c37f0408-644a-4c69-a9fb-35c902a84c4f;125;;Hufflepuff;"Quidditch;Polishing pots;Practice magic"
+19a8365c-16de-48e9-b49e-a90a2a36521e;130;;Ravenclaw;Polishing pots

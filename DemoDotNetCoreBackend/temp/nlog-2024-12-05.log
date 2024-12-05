@@ -1,0 +1,319 @@
+2024-12-05 05:10:32.9461|DEBUG|DemoDotNetCoreBackend.Program|init main
+2024-12-05 05:10:33.0682|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory|Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider
+2024-12-05 05:10:33.0812|DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting starting
+2024-12-05 05:10:33.0964|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5267
+2024-12-05 05:10:33.0964|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly DemoDotNetCoreBackend
+2024-12-05 05:10:33.0964|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2024-12-05 05:10:33.0968|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2024-12-05 05:10:33.0968|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/DemoDotNetCoreBackend/
+2024-12-05 05:10:33.0968|DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting started
+2024-12-05 05:10:33.5922|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN8KSB1S47KT" received FIN.
+2024-12-05 05:10:33.5940|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN8KSB1S47KT" accepted.
+2024-12-05 05:10:33.5940|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN8KSB1S47KT" started.
+2024-12-05 05:10:33.5985|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN8KSB1S47KT" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-12-05 05:10:33.5993|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN8KSB1S47KT" disconnecting.
+2024-12-05 05:10:33.6001|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN8KSB1S47KT" stopped.
+2024-12-05 05:10:33.6529|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN8KSB1S47KU" accepted.
+2024-12-05 05:10:33.6529|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN8KSB1S47KU" started.
+2024-12-05 05:10:33.6812|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5267/swagger/index.html - -
+2024-12-05 05:10:33.6827|DEBUG|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|Wildcard detected, all requests with hosts will be allowed.
+2024-12-05 05:10:33.6919|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/swagger/index.html'
+2024-12-05 05:10:33.6919|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints
+2024-12-05 05:10:33.7239|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN8KSB1S47KU" completed keep alive response.
+2024-12-05 05:10:33.7239|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5267/swagger/index.html - - - 200 - text/html;charset=utf-8 44.1439ms
+2024-12-05 05:10:33.7753|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5267/swagger/v1/swagger.json - -
+2024-12-05 05:10:33.7753|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/swagger/v1/swagger.json'
+2024-12-05 05:10:33.7753|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints
+2024-12-05 05:10:33.8018|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN8KSB1S47KU" completed keep alive response.
+2024-12-05 05:10:33.8018|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5267/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 26.6077ms
+2024-12-05 05:12:29.8065|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN8KSB1S47KU" received FIN.
+2024-12-05 05:12:29.8081|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN8KSB1S47KU" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-12-05 05:12:29.8147|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN8KSB1S47KU" disconnecting.
+2024-12-05 05:12:29.8166|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN8KSB1S47KU" stopped.
+2024-12-05 05:19:42.5259|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN8KSB1S47KV" accepted.
+2024-12-05 05:19:42.5265|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN8KSB1S47KV" started.
+2024-12-05 05:19:42.5329|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5267/api/Reports/show/salary - -
+2024-12-05 05:19:42.5418|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/api/Reports/show/salary'
+2024-12-05 05:19:42.5460|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint 'DemoDotNetCoreBackend.Controllers.ReportsController.ReportSalary (DemoDotNetCoreBackend)' with route pattern 'api/Reports/show/salary' is valid for the request path '/api/Reports/show/salary'
+2024-12-05 05:19:42.5460|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'DemoDotNetCoreBackend.Controllers.ReportsController.ReportSalary (DemoDotNetCoreBackend)'
+2024-12-05 05:19:42.5489|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Static files was skipped as the request already matched an endpoint.
+2024-12-05 05:19:42.5522|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'DemoDotNetCoreBackend.Controllers.ReportsController.ReportSalary (DemoDotNetCoreBackend)'
+2024-12-05 05:19:42.5792|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "ReportSalary", controller = "Reports"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] ReportSalary() on controller DemoDotNetCoreBackend.Controllers.ReportsController (DemoDotNetCoreBackend).
+2024-12-05 05:19:42.5792|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of authorization filters (in the following order): None
+2024-12-05 05:19:42.5792|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of resource filters (in the following order): None
+2024-12-05 05:19:42.5792|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)
+2024-12-05 05:19:42.5792|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of exception filters (in the following order): None
+2024-12-05 05:19:42.5792|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)
+2024-12-05 05:19:42.5801|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing controller factory for controller DemoDotNetCoreBackend.Controllers.ReportsController (DemoDotNetCoreBackend)
+2024-12-05 05:19:42.6446|DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-12-05 05:19:42.6524|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed controller factory for controller DemoDotNetCoreBackend.Controllers.ReportsController (DemoDotNetCoreBackend)
+2024-12-05 05:19:42.9276|DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 7.0.20 initialized 'HogwartsContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:7.0.20' with options: None
+2024-12-05 05:19:42.9540|DEBUG|Microsoft.EntityFrameworkCore.Query|Compiling query expression: 
+'DbSet<Shift>()
+    .Join(
+        inner: DbSet<Students>(), 
+        outerKeySelector: s => s.AppointedById, 
+        innerKeySelector: st => st.Id, 
+        resultSelector: (s, st) => new { 
+            s = s, 
+            st = st
+         })
+    .GroupBy(x => new { 
+        Year = x.s.EndTime.Year, 
+        Month = x.s.EndTime.Month
+     })
+    .Select(g => new SalaryDto{ 
+        Year = g.Key.Year, 
+        Month = g.Key.Month, 
+        Salary = (decimal)g
+            .Sum(x => __Functions_0
+                .DateDiffMinute(
+                    startDate: x.s.StartTime, 
+                    endDate: x.s.EndTime) * x.st.SalaryRate / 60) 
+    }
+    )
+    .OrderBy(s => s.Year)
+    .ThenBy(s => s.Month)'
+2024-12-05 05:19:43.0649|DEBUG|Microsoft.EntityFrameworkCore.Query|Generated query execution expression: 
+'queryContext => new SingleQueryingEnumerable<SalaryDto>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.QueryExpression(
+        Projection Mapping:
+            Year -> 0
+            Month -> 1
+            Salary -> 2
+        SELECT t.Year, t.Month, CAST(SUM((DATEDIFF(minute, t.start_time, t.ent_time) * t.salary_rate) / 60) AS decimal(18,2)) AS Salary
+        FROM 
+        (
+            SELECT s.ent_time, s.start_time, s0.salary_rate, DATEPART(year, s.ent_time) AS Year, DATEPART(month, s.ent_time) AS Month
+            FROM shift AS s
+            INNER JOIN students AS s0 ON s.appointed_by == s0.id
+        ) AS t
+        GROUP BY t.Year, t.Month
+        ORDER BY t.Year ASC, t.Month ASC), 
+    null, 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, SalaryDto>, 
+    Infrastructure.HogwartsContext, 
+    False, 
+    False, 
+    True
+)'
+2024-12-05 05:19:43.0800|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Creating DbCommand for 'ExecuteReader'.
+2024-12-05 05:19:43.0800|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Creating DbConnection.
+2024-12-05 05:19:43.0884|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Created DbConnection. (7ms).
+2024-12-05 05:19:43.0903|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Created DbCommand for 'ExecuteReader' (10ms).
+2024-12-05 05:19:43.0903|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Initialized DbCommand for 'ExecuteReader' (11ms).
+2024-12-05 05:19:43.0920|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opening connection to database 'test5' on server '127.0.0.1,1433'.
+2024-12-05 05:19:43.2176|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opened connection to database 'test5' on server '127.0.0.1,1433'.
+2024-12-05 05:19:43.2195|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Year], [t].[Month], CAST(COALESCE(SUM((DATEDIFF(minute, [t].[start_time], [t].[ent_time]) * [t].[salary_rate]) / 60), 0) AS decimal(18,2)) AS [Salary]
+FROM (
+    SELECT [s].[ent_time], [s].[start_time], [s0].[salary_rate], DATEPART(year, [s].[ent_time]) AS [Year], DATEPART(month, [s].[ent_time]) AS [Month]
+    FROM [shift] AS [s]
+    INNER JOIN [students] AS [s0] ON [s].[appointed_by] = [s0].[id]
+) AS [t]
+GROUP BY [t].[Year], [t].[Month]
+ORDER BY [t].[Year], [t].[Month]
+2024-12-05 05:19:43.2662|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (47ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Year], [t].[Month], CAST(COALESCE(SUM((DATEDIFF(minute, [t].[start_time], [t].[ent_time]) * [t].[salary_rate]) / 60), 0) AS decimal(18,2)) AS [Salary]
+FROM (
+    SELECT [s].[ent_time], [s].[start_time], [s0].[salary_rate], DATEPART(year, [s].[ent_time]) AS [Year], DATEPART(month, [s].[ent_time]) AS [Month]
+    FROM [shift] AS [s]
+    INNER JOIN [students] AS [s0] ON [s].[appointed_by] = [s0].[id]
+) AS [t]
+GROUP BY [t].[Year], [t].[Month]
+ORDER BY [t].[Year], [t].[Month]
+2024-12-05 05:19:43.2734|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Closing data reader to 'test5' on server '127.0.0.1,1433'.
+2024-12-05 05:19:43.2750|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|A data reader for 'test5' on server '127.0.0.1,1433' is being disposed after spending 7ms reading results.
+2024-12-05 05:19:43.2750|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closing connection to database 'test5' on server '127.0.0.1,1433'.
+2024-12-05 05:19:43.2781|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closed connection to database 'test5' on server '127.0.0.1,1433' (2ms).
+2024-12-05 05:19:43.2792|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|List of registered output formatters, in the following order: Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter
+2024-12-05 05:19:43.2792|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|No information found on request to perform content negotiation.
+2024-12-05 05:19:43.2792|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2024-12-05 05:19:43.2792|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Attempting to select the first formatter in the output formatters list which can write the result.
+2024-12-05 05:19:43.2792|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response.
+2024-12-05 05:19:43.2792|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Application.DTO.SalaryDto, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-12-05 05:19:43.2827|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action DemoDotNetCoreBackend.Controllers.ReportsController.ReportSalary (DemoDotNetCoreBackend) in 702.0574ms
+2024-12-05 05:19:43.2827|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'DemoDotNetCoreBackend.Controllers.ReportsController.ReportSalary (DemoDotNetCoreBackend)'
+2024-12-05 05:19:43.2831|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN8KSB1S47KV" completed keep alive response.
+2024-12-05 05:19:43.2831|DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|'HogwartsContext' disposed.
+2024-12-05 05:19:43.2846|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Disposing connection to database 'test5' on server '127.0.0.1,1433'.
+2024-12-05 05:19:43.2846|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Disposed connection to database '' on server '' (0ms).
+2024-12-05 05:19:43.2846|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5267/api/Reports/show/salary - - - 200 - application/json;+charset=utf-8 752.0982ms
+2024-12-05 05:21:39.1443|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN8KSB1S47KV" received FIN.
+2024-12-05 05:21:39.1447|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN8KSB1S47KV" disconnecting.
+2024-12-05 05:21:39.1447|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN8KSB1S47KV" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-12-05 05:21:39.1459|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN8KSB1S47KV" stopped.
+2024-12-05 05:33:26.2666|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN8KSB1S47L0" received FIN.
+2024-12-05 05:33:26.2672|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN8KSB1S47L0" accepted.
+2024-12-05 05:33:26.2672|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN8KSB1S47L0" started.
+2024-12-05 05:33:26.2672|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN8KSB1S47L1" accepted.
+2024-12-05 05:33:26.2672|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN8KSB1S47L1" started.
+2024-12-05 05:33:26.2680|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN8KSB1S47L0" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-12-05 05:33:26.2680|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN8KSB1S47L0" disconnecting.
+2024-12-05 05:33:26.2680|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN8KSB1S47L0" stopped.
+2024-12-05 05:33:26.2690|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5267/api/reports/show/bill - -
+2024-12-05 05:33:26.2702|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/api/reports/show/bill'
+2024-12-05 05:33:26.2702|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint 'DemoDotNetCoreBackend.Controllers.ReportsController.ReportBill (DemoDotNetCoreBackend)' with route pattern 'api/Reports/show/bill' is valid for the request path '/api/reports/show/bill'
+2024-12-05 05:33:26.2702|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'DemoDotNetCoreBackend.Controllers.ReportsController.ReportBill (DemoDotNetCoreBackend)'
+2024-12-05 05:33:26.2702|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Static files was skipped as the request already matched an endpoint.
+2024-12-05 05:33:26.2710|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'DemoDotNetCoreBackend.Controllers.ReportsController.ReportBill (DemoDotNetCoreBackend)'
+2024-12-05 05:33:26.2745|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "ReportBill", controller = "Reports"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] ReportBill() on controller DemoDotNetCoreBackend.Controllers.ReportsController (DemoDotNetCoreBackend).
+2024-12-05 05:33:26.2745|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of authorization filters (in the following order): None
+2024-12-05 05:33:26.2745|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of resource filters (in the following order): None
+2024-12-05 05:33:26.2745|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)
+2024-12-05 05:33:26.2745|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of exception filters (in the following order): None
+2024-12-05 05:33:26.2745|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)
+2024-12-05 05:33:26.2745|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing controller factory for controller DemoDotNetCoreBackend.Controllers.ReportsController (DemoDotNetCoreBackend)
+2024-12-05 05:33:26.2754|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed controller factory for controller DemoDotNetCoreBackend.Controllers.ReportsController (DemoDotNetCoreBackend)
+2024-12-05 05:33:26.2794|DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 7.0.20 initialized 'HogwartsContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:7.0.20' with options: None
+2024-12-05 05:33:26.2834|DEBUG|Microsoft.EntityFrameworkCore.Query|Compiling query expression: 
+'DbSet<Shift>()
+    .GroupBy(s => new { 
+        Year = s.EndTime.Year, 
+        Month = s.EndTime.Month
+     })
+    .Select(g => new BillDto{ 
+        Year = g.Key.Year, 
+        Month = g.Key.Month, 
+        Bill = (decimal)g
+            .Sum(s => __Functions_0
+                .DateDiffMinute(
+                    startDate: s.StartTime, 
+                    endDate: s.EndTime) - s.UnpaidBreak * s.BillableRate) 
+    }
+    )
+    .OrderBy(b => b.Year)
+    .ThenBy(b => b.Month)'
+2024-12-05 05:33:26.2898|DEBUG|Microsoft.EntityFrameworkCore.Query|Generated query execution expression: 
+'queryContext => new SingleQueryingEnumerable<BillDto>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.QueryExpression(
+        Projection Mapping:
+            Year -> 0
+            Month -> 1
+            Bill -> 2
+        SELECT t.Year, t.Month, CAST(SUM((DATEDIFF(minute, t.start_time, t.ent_time) - t.unpaid_break) * t.billable_rate) AS decimal(18,2)) AS Bill
+        FROM 
+        (
+            SELECT s.billable_rate, s.ent_time, s.start_time, s.unpaid_break, DATEPART(year, s.ent_time) AS Year, DATEPART(month, s.ent_time) AS Month
+            FROM shift AS s
+        ) AS t
+        GROUP BY t.Year, t.Month
+        ORDER BY t.Year ASC, t.Month ASC), 
+    null, 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, BillDto>, 
+    Infrastructure.HogwartsContext, 
+    False, 
+    False, 
+    True
+)'
+2024-12-05 05:33:26.2913|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Creating DbCommand for 'ExecuteReader'.
+2024-12-05 05:33:26.2913|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Creating DbConnection.
+2024-12-05 05:33:26.2913|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Created DbConnection. (0ms).
+2024-12-05 05:33:26.2913|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Created DbCommand for 'ExecuteReader' (0ms).
+2024-12-05 05:33:26.2919|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Initialized DbCommand for 'ExecuteReader' (0ms).
+2024-12-05 05:33:26.2919|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opening connection to database 'test5' on server '127.0.0.1,1433'.
+2024-12-05 05:33:26.3415|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opened connection to database 'test5' on server '127.0.0.1,1433'.
+2024-12-05 05:33:26.3419|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Year], [t].[Month], CAST(COALESCE(SUM((DATEDIFF(minute, [t].[start_time], [t].[ent_time]) - [t].[unpaid_break]) * [t].[billable_rate]), 0) AS decimal(18,2)) AS [Bill]
+FROM (
+    SELECT [s].[billable_rate], [s].[ent_time], [s].[start_time], [s].[unpaid_break], DATEPART(year, [s].[ent_time]) AS [Year], DATEPART(month, [s].[ent_time]) AS [Month]
+    FROM [shift] AS [s]
+) AS [t]
+GROUP BY [t].[Year], [t].[Month]
+ORDER BY [t].[Year], [t].[Month]
+2024-12-05 05:33:26.3555|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (14ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Year], [t].[Month], CAST(COALESCE(SUM((DATEDIFF(minute, [t].[start_time], [t].[ent_time]) - [t].[unpaid_break]) * [t].[billable_rate]), 0) AS decimal(18,2)) AS [Bill]
+FROM (
+    SELECT [s].[billable_rate], [s].[ent_time], [s].[start_time], [s].[unpaid_break], DATEPART(year, [s].[ent_time]) AS [Year], DATEPART(month, [s].[ent_time]) AS [Month]
+    FROM [shift] AS [s]
+) AS [t]
+GROUP BY [t].[Year], [t].[Month]
+ORDER BY [t].[Year], [t].[Month]
+2024-12-05 05:33:26.3559|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Closing data reader to 'test5' on server '127.0.0.1,1433'.
+2024-12-05 05:33:26.3559|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|A data reader for 'test5' on server '127.0.0.1,1433' is being disposed after spending 0ms reading results.
+2024-12-05 05:33:26.3559|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closing connection to database 'test5' on server '127.0.0.1,1433'.
+2024-12-05 05:33:26.3559|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closed connection to database 'test5' on server '127.0.0.1,1433' (0ms).
+2024-12-05 05:33:26.3559|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|List of registered output formatters, in the following order: Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter
+2024-12-05 05:33:26.3559|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|No information found on request to perform content negotiation.
+2024-12-05 05:33:26.3559|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2024-12-05 05:33:26.3559|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Attempting to select the first formatter in the output formatters list which can write the result.
+2024-12-05 05:33:26.3559|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response.
+2024-12-05 05:33:26.3559|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Application.DTO.BillDto, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-12-05 05:33:26.3577|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action DemoDotNetCoreBackend.Controllers.ReportsController.ReportBill (DemoDotNetCoreBackend) in 83.0351ms
+2024-12-05 05:33:26.3577|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'DemoDotNetCoreBackend.Controllers.ReportsController.ReportBill (DemoDotNetCoreBackend)'
+2024-12-05 05:33:26.3577|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN8KSB1S47L1" completed keep alive response.
+2024-12-05 05:33:26.3577|DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|'HogwartsContext' disposed.
+2024-12-05 05:33:26.3577|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Disposing connection to database 'test5' on server '127.0.0.1,1433'.
+2024-12-05 05:33:26.3577|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Disposed connection to database '' on server '' (0ms).
+2024-12-05 05:33:26.3577|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5267/api/reports/show/bill - - - 200 - application/json;+charset=utf-8 88.9365ms
+2024-12-05 05:35:36.5757|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN8KSB1S47L1" disconnecting.
+2024-12-05 05:35:36.5771|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN8KSB1S47L1" stopped.
+2024-12-05 05:35:36.5783|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN8KSB1S47L1" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-12-05 05:36:24.1180|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN8KSB1S47L2" accepted.
+2024-12-05 05:36:24.1180|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN8KSB1S47L2" started.
+2024-12-05 05:36:24.1292|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5267/api/Reports/show/salary - -
+2024-12-05 05:36:24.1314|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/api/Reports/show/salary'
+2024-12-05 05:36:24.1314|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint 'DemoDotNetCoreBackend.Controllers.ReportsController.ReportSalary (DemoDotNetCoreBackend)' with route pattern 'api/Reports/show/salary' is valid for the request path '/api/Reports/show/salary'
+2024-12-05 05:36:24.1314|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'DemoDotNetCoreBackend.Controllers.ReportsController.ReportSalary (DemoDotNetCoreBackend)'
+2024-12-05 05:36:24.1330|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Static files was skipped as the request already matched an endpoint.
+2024-12-05 05:36:24.1334|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'DemoDotNetCoreBackend.Controllers.ReportsController.ReportSalary (DemoDotNetCoreBackend)'
+2024-12-05 05:36:24.1353|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "ReportSalary", controller = "Reports"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] ReportSalary() on controller DemoDotNetCoreBackend.Controllers.ReportsController (DemoDotNetCoreBackend).
+2024-12-05 05:36:24.1353|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of authorization filters (in the following order): None
+2024-12-05 05:36:24.1353|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of resource filters (in the following order): None
+2024-12-05 05:36:24.1353|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)
+2024-12-05 05:36:24.1353|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of exception filters (in the following order): None
+2024-12-05 05:36:24.1353|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)
+2024-12-05 05:36:24.1353|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing controller factory for controller DemoDotNetCoreBackend.Controllers.ReportsController (DemoDotNetCoreBackend)
+2024-12-05 05:36:24.1383|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed controller factory for controller DemoDotNetCoreBackend.Controllers.ReportsController (DemoDotNetCoreBackend)
+2024-12-05 05:36:24.1566|DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 7.0.20 initialized 'HogwartsContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:7.0.20' with options: None
+2024-12-05 05:36:24.1590|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Creating DbCommand for 'ExecuteReader'.
+2024-12-05 05:36:24.1590|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Creating DbConnection.
+2024-12-05 05:36:24.1590|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Created DbConnection. (0ms).
+2024-12-05 05:36:24.1590|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Created DbCommand for 'ExecuteReader' (0ms).
+2024-12-05 05:36:24.1590|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Initialized DbCommand for 'ExecuteReader' (0ms).
+2024-12-05 05:36:24.1590|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opening connection to database 'test5' on server '127.0.0.1,1433'.
+2024-12-05 05:36:24.1597|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opened connection to database 'test5' on server '127.0.0.1,1433'.
+2024-12-05 05:36:24.1597|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Year], [t].[Month], CAST(COALESCE(SUM((DATEDIFF(minute, [t].[start_time], [t].[ent_time]) * [t].[salary_rate]) / 60), 0) AS decimal(18,2)) AS [Salary]
+FROM (
+    SELECT [s].[ent_time], [s].[start_time], [s0].[salary_rate], DATEPART(year, [s].[ent_time]) AS [Year], DATEPART(month, [s].[ent_time]) AS [Month]
+    FROM [shift] AS [s]
+    INNER JOIN [students] AS [s0] ON [s].[appointed_by] = [s0].[id]
+) AS [t]
+GROUP BY [t].[Year], [t].[Month]
+ORDER BY [t].[Year], [t].[Month]
+2024-12-05 05:36:24.1938|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (34ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Year], [t].[Month], CAST(COALESCE(SUM((DATEDIFF(minute, [t].[start_time], [t].[ent_time]) * [t].[salary_rate]) / 60), 0) AS decimal(18,2)) AS [Salary]
+FROM (
+    SELECT [s].[ent_time], [s].[start_time], [s0].[salary_rate], DATEPART(year, [s].[ent_time]) AS [Year], DATEPART(month, [s].[ent_time]) AS [Month]
+    FROM [shift] AS [s]
+    INNER JOIN [students] AS [s0] ON [s].[appointed_by] = [s0].[id]
+) AS [t]
+GROUP BY [t].[Year], [t].[Month]
+ORDER BY [t].[Year], [t].[Month]
+2024-12-05 05:36:24.1938|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Closing data reader to 'test5' on server '127.0.0.1,1433'.
+2024-12-05 05:36:24.1938|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|A data reader for 'test5' on server '127.0.0.1,1433' is being disposed after spending 0ms reading results.
+2024-12-05 05:36:24.1938|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closing connection to database 'test5' on server '127.0.0.1,1433'.
+2024-12-05 05:36:24.1938|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closed connection to database 'test5' on server '127.0.0.1,1433' (0ms).
+2024-12-05 05:36:24.1943|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|List of registered output formatters, in the following order: Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter
+2024-12-05 05:36:24.1943|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|No information found on request to perform content negotiation.
+2024-12-05 05:36:24.1943|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2024-12-05 05:36:24.1943|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Attempting to select the first formatter in the output formatters list which can write the result.
+2024-12-05 05:36:24.1943|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response.
+2024-12-05 05:36:24.1943|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Application.DTO.SalaryDto, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-12-05 05:36:24.1943|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action DemoDotNetCoreBackend.Controllers.ReportsController.ReportSalary (DemoDotNetCoreBackend) in 59.5515ms
+2024-12-05 05:36:24.1943|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'DemoDotNetCoreBackend.Controllers.ReportsController.ReportSalary (DemoDotNetCoreBackend)'
+2024-12-05 05:36:24.1943|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN8KSB1S47L2" completed keep alive response.
+2024-12-05 05:36:24.1943|DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|'HogwartsContext' disposed.
+2024-12-05 05:36:24.1943|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Disposing connection to database 'test5' on server '127.0.0.1,1433'.
+2024-12-05 05:36:24.1943|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Disposed connection to database '' on server '' (0ms).
+2024-12-05 05:36:24.1953|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5267/api/Reports/show/salary - - - 200 - application/json;+charset=utf-8 67.1870ms
+2024-12-05 05:37:39.1405|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN8KSB1S47L2" received FIN.
+2024-12-05 05:37:39.1405|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN8KSB1S47L2" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-12-05 05:37:39.1405|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN8KSB1S47L2" disconnecting.
+2024-12-05 05:37:39.1405|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN8KSB1S47L2" stopped.
+2024-12-05 05:46:44.5286|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2024-12-05 05:46:44.5337|DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting stopping
+2024-12-05 05:46:44.5393|DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting stopped
