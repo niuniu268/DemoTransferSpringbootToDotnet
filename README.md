@@ -18,5 +18,15 @@ As a result, I created three tables: students, shifts, and tasks. Following Boyc
 
 - Input raw into database
 
-![Image2]()
+![Image2](https://github.com/niuniu268/DemoTransferSpringbootToDotnet/blob/master/Img/Screenshot%202024-12-05%20at%2003.40.47.png?raw=true)
+
+- In the mssql database
+
+![Image3](https://github.com/niuniu268/DemoTransferSpringbootToDotnet/blob/master/Img/Screenshot%202024-12-05%20at%2003.40.22.png?raw=true)
+
 2. Endpoint Exposure: I have exposed an endpoint that shows the total time each house spent on different tasks. Using the tasks table, we can filter for a task such as "Polishing pots." After joining the shifts, students, and tasks tables, the program returns the aggregated number of hours spent on this task by each house.
+
+Result: 
+
+![Image4](https://github.com/niuniu268/DemoTransferSpringbootToDotnet/blob/master/Img/Screenshot%202024-12-05%20at%2003.41.34.png?raw=true)
+![Image5](https://github.com/niuniu268/DemoTransferSpringbootToDotnet/blob/master/Img/Screenshot%202024-12-05%20at%2003.41.07.png?raw=true)
