@@ -84,3 +84,5 @@
 /Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/DemoDotNetCoreBackend/bin/Debug/net6.0/Application.pdb
 /Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/DemoDotNetCoreBackend/bin/Debug/net6.0/Core.pdb
 /Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/DemoDotNetCoreBackend/bin/Debug/net6.0/Infrastructure.pdb
+/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/DemoDotNetCoreBackend/bin/Debug/net6.0/Castle.Core.dll
+/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/DemoDotNetCoreBackend/bin/Debug/net6.0/Moq.dll

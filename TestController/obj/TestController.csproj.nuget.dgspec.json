@@ -1,0 +1,384 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/TestController/TestController.csproj": {}
+  },
+  "projects": {
+    "/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Application/Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Application/Application.csproj",
+        "projectName": "Application",
+        "projectPath": "/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Application/Application.csproj",
+        "packagesPath": "/Users/hongweihan/.nuget/packages/",
+        "outputPath": "/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hongweihan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Core/Core.csproj": {
+                "projectPath": "/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Core/Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[33.0.1, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/hongweihan/.dotnet/sdk/6.0.428/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Core/Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Core/Core.csproj",
+        "projectName": "Core",
+        "projectPath": "/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Core/Core.csproj",
+        "packagesPath": "/Users/hongweihan/.nuget/packages/",
+        "outputPath": "/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hongweihan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/hongweihan/.dotnet/sdk/6.0.428/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/DemoDotNetCoreBackend/DemoDotNetCoreBackend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/DemoDotNetCoreBackend/DemoDotNetCoreBackend.csproj",
+        "projectName": "DemoDotNetCoreBackend",
+        "projectPath": "/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/DemoDotNetCoreBackend/DemoDotNetCoreBackend.csproj",
+        "packagesPath": "/Users/hongweihan/.nuget/packages/",
+        "outputPath": "/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/DemoDotNetCoreBackend/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hongweihan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Application/Application.csproj": {
+                "projectPath": "/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Application/Application.csproj"
+              },
+              "/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Core/Core.csproj": {
+                "projectPath": "/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Core/Core.csproj"
+              },
+              "/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Infrastructure/Infrastructure.csproj": {
+                "projectPath": "/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Infrastructure/Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[5.3.4, )"
+            },
+            "NLog.Config": {
+              "target": "Package",
+              "version": "[4.7.15, )"
+            },
+            "NLog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[5.3.15, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[5.3.15, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/hongweihan/.dotnet/sdk/6.0.428/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Infrastructure/Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Infrastructure/Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Infrastructure/Infrastructure.csproj",
+        "packagesPath": "/Users/hongweihan/.nuget/packages/",
+        "outputPath": "/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hongweihan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Core/Core.csproj": {
+                "projectPath": "/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Core/Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/hongweihan/.dotnet/sdk/6.0.428/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/TestController/TestController.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/TestController/TestController.csproj",
+        "projectName": "TestController",
+        "projectPath": "/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/TestController/TestController.csproj",
+        "packagesPath": "/Users/hongweihan/.nuget/packages/",
+        "outputPath": "/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/TestController/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hongweihan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/DemoDotNetCoreBackend/DemoDotNetCoreBackend.csproj": {
+                "projectPath": "/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/DemoDotNetCoreBackend/DemoDotNetCoreBackend.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/hongweihan/.dotnet/sdk/6.0.428/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

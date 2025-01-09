@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Tpw09auThPo=",
+  "dgSpecHash": "EKmhcWpb514=",
   "success": true,
   "projectFilePath": "/Users/hongweihan/RiderProjects/DemoDotNetCoreBackend/Core/Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/hongweihan/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
+    "/Users/hongweihan/.nuget/packages/moq/4.20.72/moq.4.20.72.nupkg.sha512",
+    "/Users/hongweihan/.nuget/packages/system.diagnostics.eventlog/6.0.0/system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
